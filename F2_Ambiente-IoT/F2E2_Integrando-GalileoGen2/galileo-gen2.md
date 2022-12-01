@@ -11,11 +11,11 @@
 
 # Instalando Sistema Operacional
 
-[<h6>voltar</h6>](#sumario)
+###### [voltar](#sumario)
 
 ## 1. Baixe imagem do SO poky (sdcard.1.1.1.tar.bz2)
 
-[<h6>voltar</h6>](#sumario)
+###### [voltar](#sumario)
 
 Baixe o arquivo **sdcard.1.1.1.tar.bz2** de 49.1MB Disponível no link:
 
@@ -23,7 +23,7 @@ Baixe o arquivo **sdcard.1.1.1.tar.bz2** de 49.1MB Disponível no link:
 
 ## 2. Prepare cartão SD
 
-[<h6>voltar</h6>](#sumario)
+###### [voltar](#sumario)
 
 - Descompacte o arquivo **sdcard.1.1.1.tar.bz2**.
 
@@ -33,7 +33,7 @@ Baixe o arquivo **sdcard.1.1.1.tar.bz2** de 49.1MB Disponível no link:
 
 ## 3. Instalação do SO
 
-[<h6>voltar</h6>](#sumario)
+###### [voltar](#sumario)
 
 - Com a **placa intel Galileo gen2** desligada.
 
@@ -50,7 +50,7 @@ Baixe o arquivo **sdcard.1.1.1.tar.bz2** de 49.1MB Disponível no link:
 
 # Configure a IDE do Arduino
 
-[<h6>voltar</h6>](#sumario)
+###### [voltar](#sumario)
 
 - Execute a **IDE do Arduino**
 
@@ -67,7 +67,7 @@ Baixe o arquivo **sdcard.1.1.1.tar.bz2** de 49.1MB Disponível no link:
 
 # Configurando IP Fixo
 
-[<h6>voltar</h6>](#sumario)
+###### [voltar](#sumario)
 
 1. Copie e cole o código abaixo no IDE do arduino.
 
@@ -115,11 +115,11 @@ void loop()
 
 # Configurando syslog
 
-[<h6>voltar</h6>](#sumario)
+###### [voltar](#sumario)
 
 ## Comunicação SSH
 
-[<h6>voltar</h6>](#sumario)
+###### [voltar](#sumario)
 
 - Em CMD efetuar o comando:
 
@@ -135,7 +135,7 @@ ssh root@<ip do galileo>
 
 ## Configuração do arquivo Syslog-startup.conf.busybox
 
-[<h6>voltar</h6>](#sumario)
+###### [voltar](#sumario)
 
 No terminal do Galileo digite o comando:  
 ```cmd
@@ -147,7 +147,7 @@ Edite o arquivo alterando os atributos conforme a imagem:
 
 # Configuração ELK (Preparando Logs)
 
-[<h6>voltar</h6>](#sumario)
+###### [voltar](#sumario)
 
 No servidor ELK:
   
