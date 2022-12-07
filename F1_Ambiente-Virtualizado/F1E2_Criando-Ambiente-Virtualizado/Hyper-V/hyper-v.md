@@ -112,6 +112,6 @@ O Hyper-V fornece a virtualização de hardware. Isso significa que cada máquin
          |Disco Rígido:|C:\Users\Public\Documents\Hyper-V\Virtual Hard Disks\Nova Máquina Virtual.vhdx (VHDX, expansão dinâmica)|
          |Sistema Operacional:|Será instalado de C:\Caminho da ISO\Sistema Operacional.iso|
 
-      1. Cliqui no botão Conluir
+      1. Clique no botão Conluir
 
 1. A _Nova Máquina Virtual_ vai aparecer no painel central do **Gerenciador do Hyper-V** descrito como 'Máquinas Virtuais'
