@@ -133,7 +133,7 @@
 
    |     | Name                     | Total size | Free space | Type |
    | --- | ------------------------ | ---------- | ---------- | ---- |
-   |     | Drive 0 nallocated Space | 32GB       | 32GB       |      |
+   |     | Drive 0 Unallocated Space | 32GB       | 32GB       |      |
    |     |                          |            |            |      |
 
    - Clique no botão '_Next_'
