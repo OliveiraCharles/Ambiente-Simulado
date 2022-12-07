@@ -131,10 +131,10 @@
 
 1. Selecione em qual partição deseja instalar o windows
 
-   |     | Name                     | Total size | Free space | Type |
-   | --- | ------------------------ | ---------- | ---------- | ---- |
+   |     | Name                      | Total size | Free space | Type |
+   | --- | ------------------------- | ---------- | ---------- | ---- |
    |     | Drive 0 Unallocated Space | 32GB       | 32GB       |      |
-   |     |                          |            |            |      |
+   |     |                           |            |            |      |
 
    - Clique no botão '_Next_'
 
