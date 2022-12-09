@@ -1,6 +1,6 @@
 # Sumário
 
-- [Preparo do Ambiente](#Instalação-Ambiente-Kali-Linux)
+- [Preparo do Ambiente](#Preparação-do-ambiente)
   - [Baixando a ISO](#baixando-a-iso)
   - [Configurando o Hyper-V](#configurando-o-hyper-v)
 - [Criação da VM](#criação-da-vm)
@@ -10,7 +10,9 @@
   - [Configurando o Sistema](#configurando-o-sistema)
 
 
-# Instalação Ambiente Kali Linux
+# Preparação do ambiente
+
+## Baixando a ISO
 
 Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
 
