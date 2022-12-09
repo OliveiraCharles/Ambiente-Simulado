@@ -41,4 +41,14 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
 3º: Para nosso cenário em especial, será indicado a escolha da opção _Installer Images_, desta forma clicar na opção Installer para que seja inicializado o download da Imagem do sistema(.iso) do Kali Linux.
 
 
+# Criação da VM
+
+## Requisitos mínimos
+
+| -------------------- | ---------------------------------------------------------|
+| Artquitetura:        | 32 / 64 bits                                             |
+| RAM:                 | 2GB                                                      |
+| Armazenamento:       | 20GB                                                     |
+
+
 
