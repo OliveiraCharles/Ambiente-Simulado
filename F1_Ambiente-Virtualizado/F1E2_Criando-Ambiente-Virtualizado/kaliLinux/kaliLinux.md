@@ -45,10 +45,11 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
 
 ## Requisitos mínimos
 
+|                      |                                                          |
 | -------------------- | ---------------------------------------------------------|
 | Artquitetura:        | 32 / 64 bits                                             |
 | RAM:                 | 2GB                                                      |
 | Armazenamento:       | 20GB                                                     |
-
+|                      |                                                          |
 
 
