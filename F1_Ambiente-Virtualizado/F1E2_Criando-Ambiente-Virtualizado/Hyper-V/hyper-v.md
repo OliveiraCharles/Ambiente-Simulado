@@ -114,4 +114,4 @@ O Hyper-V fornece a virtualização de hardware. Isso significa que cada máquin
 
       1. Clique no botão 'Concluir'
 
-1. A _Nova Máquina Virtual_ vai aparecer no painel central do **Gerenciador do Hyper-V** descrito como 'Máquinas Virtuais'
+1. A _Nova Máquina Virtual_ irá aparecer no painel central do **Gerenciador do Hyper-V** descrito como 'Máquinas Virtuais'
