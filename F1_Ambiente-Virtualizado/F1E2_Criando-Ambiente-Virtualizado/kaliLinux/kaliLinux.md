@@ -1,6 +1,6 @@
 # Sumário
 
-- [Preparo do Ambiente](#Preparação-do-ambiente)
+- [Preparação do Ambiente](#Preparação-do-ambiente)
   - [Baixando a ISO](#baixando-a-iso)
   - [Configurando o Hyper-V](#configurando-o-hyper-v)
 - [Criação da VM](#criação-da-vm)
@@ -27,6 +27,18 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
 
 3º: Para nosso cenário em especial, será indicado a escolha da opção _Installer Images_, desta forma clicar na opção Installer para que seja inicializado o download da Imagem do sistema(.iso) do Kali Linux.
 ![image](https://user-images.githubusercontent.com/105310922/206780592-85e98dbf-f5be-4b83-9eec-95d060713d6f.png)
+
+## Configurando o Hyper-V
+
+Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
+
+1º: Clicar na opção de Downloads.
+
+
+2º: Em seguida deverá ser escolhido para qual plataforma o sistema operacional será instalado.
+
+
+3º: Para nosso cenário em especial, será indicado a escolha da opção _Installer Images_, desta forma clicar na opção Installer para que seja inicializado o download da Imagem do sistema(.iso) do Kali Linux.
 
 
 
