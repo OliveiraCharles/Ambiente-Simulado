@@ -1,21 +1,23 @@
 #  Windows 7 (User Machine)
 
-
 ## Sumário
 
-- [Preparação do Ambiente](#Preparação-do-ambiente)
+- [Preparação do Ambiente](#preparação-do-ambiente)
+  - [Instalação](#instalação)
+  - [Requisitos](#requisitos)
   - [Baixando a ISO](#baixando-a-iso)
   - [Configurando o Hyper-V](#configurando-o-hyper-v)
 - [Criação da VM](#criação-da-vm)
-  - [Requisitos Mínimos](#requisitos-mínimos)
-  - [Criando uma VM](#criando-uma-vm-máquina-virtual)
-  - [Instalando a .ISO](#instalando-o-sistema-operacional-iso)
+  - [Criação do Ambiente virtual](#criação-do-ambiente-virtual)
+  - [Instalando a .ISO](#instalando-a-iso)
   - [Configurando o Sistema](#configurando-o-sistema)
 
-## Instalação
+## Preparação do ambiente
+
+### Instalação
 Neste documento será apresentado o passo a passo para a configuração do sistema operacional na máquina de usuário, que para fins do projeto foi utilizado o Sistema Operacional Windows 7 Ultimate - 64 Bits
 
-## Requisitos
+### Requisitos
 
 > Sistema Operacional: Windows 7 Ultimate - 64 Bits
 
@@ -27,9 +29,11 @@ Neste documento será apresentado o passo a passo para a configuração do siste
 |    Armazenamento: |  5 GB   |    16 GB    |
 | Memória de vídeo: |  64 MB  |    64 MB    |
 
-
+ 
+### Baixando a ISO
 
 **1º** - Acesse o link oficial da Microsoft e baixe o arquivo de Imagem do Sistema Operacional de sua preferência (**Obs:** Para este projeto foi utilzada a imagem Windows 7 Ultimate - 64 bits, conforme descrição)
+ 
  
 **_Downloads(ISO)_**
 
