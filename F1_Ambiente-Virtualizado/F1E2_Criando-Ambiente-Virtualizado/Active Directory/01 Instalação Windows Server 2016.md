@@ -17,8 +17,6 @@
 
 1. [Habilite o Hyper-V](../Hyper-V/hyper-v.md)
 
-1.
-
 # Criação da VM
 
 ## Requisitos mínimos
