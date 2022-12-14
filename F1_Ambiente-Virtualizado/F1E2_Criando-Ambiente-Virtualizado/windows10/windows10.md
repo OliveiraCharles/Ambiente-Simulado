@@ -1,4 +1,6 @@
-# Sumário
+# Windows 10 (Blue Team Machine)
+
+## Sumário
 
 - [Preparação do Ambiente](#Preparação-do-ambiente)
   - [Baixando a ISO](#baixando-a-iso)
@@ -10,9 +12,9 @@
   - [Configurando o Sistema](#configurando-o-sistema)
 
 
-# Instalação - Windows 10 (Blue Team Machine)
+## Instalação
 
-#### Neste documento será apresentado o passo a passo para a configuração do Sistema Operacional na máquina do Blue Team, que para fins do projeto foi utilizado o Sistema Operacional Windows 10 Professional - 64 Bits
+Neste documento será apresentado o passo a passo para a configuração do Sistema Operacional na máquina do Blue Team, que para fins do projeto foi utilizado o Sistema Operacional Windows 10 Professional - 64 Bits
 
 ## Requisitos
 
