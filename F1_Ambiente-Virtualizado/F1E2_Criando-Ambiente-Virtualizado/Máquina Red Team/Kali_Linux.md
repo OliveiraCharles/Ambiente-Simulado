@@ -111,6 +111,46 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
 
 ### Instalando a .ISO
 
+  1. Assim que a máquina for inicializada pela primeira vez, após o boot do Kali será necessário escolher o Modo de instalação, clique em **_"Graphic Install"_**  
+  ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
+  
+  2. Em seguida, selecione o idioma desejada. Para este caso selecionaremos **_"Enligsh"_**  
+  ![image](https://user-images.githubusercontent.com/105310922/207696452-ebf39793-aca8-4167-b8a5-c4f5e105b0df.png)
+  
+  1. Tela 1  
+  ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
+  
+  1. Tela 1  
+  ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
+  
+  1. Tela 1  
+  ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
+  
+  1. Tela 1  
+  ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
+  
+  1. Tela 1  
+  ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
+  
+  1. Tela 1  
+  ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
+  
+  1. Tela 1  
+  ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
+  
+  1. Tela 1  
+  ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
+  
+  1. Tela 1  
+  ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
+  
+  1. Tela 1  
+  ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
+  
+  1. Tela 1  
+  ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
+
+
 ### Configurando-o-sistema
 
   1. **Update:** Assim que o sistema inicializar, realize os updates de pacotes do repositório com o comando **sudo apt update** 
