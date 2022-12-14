@@ -152,4 +152,8 @@ void loop()
    1. Edite o arquivo alterando os atributos conforme a imagem:
       ![syslog-config](../../img/galileo/syslog-config.png)
 
-## [[ Voltar ao Topo ]](#sumario)
+# [![Home][homeimage]][homelink] [![Top][topimage]](#)
+[topimage]: https://img.shields.io/badge/-Voltar_ao_topo-grey
+[homeimage]: https://img.shields.io/badge/-Home-blue
+[homelink]: ./../../../README.md#
+
