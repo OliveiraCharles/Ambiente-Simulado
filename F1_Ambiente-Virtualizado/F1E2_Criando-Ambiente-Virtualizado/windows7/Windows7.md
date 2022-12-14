@@ -1,6 +1,20 @@
 # Instalação - Windows 7 (User Machine)
 
-#### Neste documento será apresentado o passo a passo para a configuração de um domínio na máquina de usuário que para fins do projeto foi utilizado o Sistema Operacional Windows 7 Ultimate - 64 Bits
+#### Neste documento será apresentado o passo a passo para a configuração do sistema operacional na máquina de usuário, que para fins do projeto foi utilizado o Sistema Operacional Windows 7 Ultimate - 64 Bits
+
+## Requisitos
+
+> Sistema Operacional: Windows 7 Ultimate - 64 Bits
+
+|   Máquina Virtual | Mínimo  | Recomendado |
+| ----------------: | :-----: | :---------: |
+|    Processadores: |    2    |      4      |
+|       Arquitetura | 64 bits |   64 bits   |
+|      Memória RAM: |  1 GB   |    4 GB     |
+|    Armazenamento: |  5 GB   |    16 GB    |
+| Memória de vídeo: |  64 MB  |    64 MB    |
+
+
 
 **1º** - Acesse o link oficial da Microsoft e baixe o arquivo de Imagem do Sistema Operacional de sua preferência (**Obs:** Para este projeto foi utilzada a imagem Windows 7 Ultimate - 64 bits, conforme descrição)
  
@@ -68,6 +82,11 @@ A seguir clique em **_"Next"_**
 
 16º - Após a realização de todas as configurações, o Sistema Operacional Windows 7 será inicializado e estará pronta para o uso.
 ![image](https://user-images.githubusercontent.com/105310922/207504662-37c37bd3-014b-4938-83e8-db597c7970bc.png)
+
+# [![Home][homeimage]][homelink] [![Top][topimage]](#)
+[topimage]: https://img.shields.io/badge/-Voltar_ao_topo-grey
+[homeimage]: https://img.shields.io/badge/-Home-blue
+[homelink]: ./../../../README.md#
 
 
 
