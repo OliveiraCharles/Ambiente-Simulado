@@ -9,17 +9,17 @@
   - [Instalando a .ISO](#instalando-o-sistema-operacional-iso)
   - [Configurando o Sistema](#configurando-o-sistema)
 
-# Preparo do ambiente
+## Preparo do ambiente
 
-## Baixando a ISO
+### Baixando a ISO
 
-## Configurando o Hyper-V
+### Configurando o Hyper-V
 
 1. [Habilite o Hyper-V](../Hyper-V/hyper-v.md)
 
-# Criação da VM
+## Criação da VM
 
-## Requisitos mínimos
+### Requisitos mínimos
 
 |                      |                                                                                                |
 | -------------------- | ---------------------------------------------------------------------------------------------- |
@@ -30,7 +30,7 @@
 | Sistema Operacional: | Será instalado de C:\Users\...\ISO\Windows_Server_2016_Datacenter_EVAL_en-us_14393_refresh.ISO |
 |                      |                                                                                                |
 
-## Criando uma VM (Máquina Virtual)
+### Criando uma VM (Máquina Virtual)
 
 1. Em **Gerenciador do Hyper-v** no menu da esquerda selecione item com o nome do _computador físico_
 1. No menu de **Ações** à direita, clique na opção 'Novo > Máquina Virtual'
@@ -90,7 +90,7 @@
 
    1. A _Nova Máquina Virtual_ vai aparecer no painel central do **Gerenciador do Hyper-V** descrito como 'Máquinas Virtuais'
 
-## Instalando o Sistema Operacional .ISO
+### Instalando o Sistema Operacional .ISO
 
 1. Clique 2x na VM criada
 1. Na janela de Conexão de Máquina Virtual clique no botão 'Iniciar'
@@ -159,7 +159,7 @@
 1. Pressione **Ctrl+Alt+Delete** para acessar o sistema
 1. Insira a **senha segura** criada anteriormente
 
-## Configurando o Sistema
+### Configurando o Sistema
 
 1. Renomeie o Computador
 1. Ajuste a Data e a Hora do Sistema
