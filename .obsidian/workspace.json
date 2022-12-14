@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "e2f1fd5e6399aa0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e324ff74c0a6513a",
             "type": "leaf",
             "state": {
@@ -170,9 +182,9 @@
   },
   "active": "d6f585022c60b4a2",
   "lastOpenFiles": [
-    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/01 Intalação Windows Server 2016.md",
-    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/02 ADDS - Instalação e configuração básica.md",
     "README.md",
+    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/02 ADDS - Instalação e configuração básica.md",
+    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/01 Intalação Windows Server 2016.md",
     "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/metasploitable2/metasploitable2.md"
   ]
 }

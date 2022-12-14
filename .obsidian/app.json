@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "img/WinSrv"
+  "attachmentFolderPath": "./img/WinSrv"
 }
