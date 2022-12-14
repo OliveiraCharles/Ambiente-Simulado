@@ -41,7 +41,7 @@ Para requisitos do sistema:
 | ----------------: | :-----:      | :---------: |
 |    Processadores: |    2         |      4      |
 |       Arquitetura | 32 / 64 bits |   64 bits   |
-|      Memória RAM: |  512 MB      |    8 GB     |
+|      Memória RAM: |  128 MB      |    8 GB     |
 |    Armazenamento: |  5 GB        |    20 GB    |
 | Memória de vídeo: |  -           |    -        |
 
