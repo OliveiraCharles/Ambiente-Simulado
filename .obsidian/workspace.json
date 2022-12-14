@@ -35,7 +35,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -189,10 +186,10 @@
       }
     ]
   },
-  "active": "bccbe9b249b125ce",
+  "active": "f3c7261537c8d79c",
   "lastOpenFiles": [
-    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Active Directory/01 Instalação Windows Server 2016.md",
     "README.md",
+    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Active Directory/01 Instalação Windows Server 2016.md",
     "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/winServer.md",
     "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Servidor Web/metasploitable2.md",
     "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Active Directory/02 ADDS - Instalação e configuração básica.md",
