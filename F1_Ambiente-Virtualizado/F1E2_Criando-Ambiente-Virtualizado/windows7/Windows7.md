@@ -1,4 +1,7 @@
-# Sumário
+#  Windows 7 (User Machine)
+
+
+## Sumário
 
 - [Preparação do Ambiente](#Preparação-do-ambiente)
   - [Baixando a ISO](#baixando-a-iso)
@@ -9,10 +12,8 @@
   - [Instalando a .ISO](#instalando-o-sistema-operacional-iso)
   - [Configurando o Sistema](#configurando-o-sistema)
 
-
-# Instalação - Windows 7 (User Machine)
-
-#### Neste documento será apresentado o passo a passo para a configuração do sistema operacional na máquina de usuário, que para fins do projeto foi utilizado o Sistema Operacional Windows 7 Ultimate - 64 Bits
+## Instalação
+Neste documento será apresentado o passo a passo para a configuração do sistema operacional na máquina de usuário, que para fins do projeto foi utilizado o Sistema Operacional Windows 7 Ultimate - 64 Bits
 
 ## Requisitos
 
