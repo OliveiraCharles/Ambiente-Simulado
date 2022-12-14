@@ -114,7 +114,7 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
 ### Configurando-o-sistema
 
   1. **Update:** Assim que o sistema inicializar, realize os updates de pacotes do repositório com o comando **sudo apt update** 
-  1. **Upgrade:** Assim que o sistema inicializar, realize os updates de pacotes do repositório com o comando **sudo apt upgrade** 
+  1. **Upgrade:** Após realizar o update dos pacotes, certifique-se de realizar o upgrade pendente das aplicacções para sempre possuir as últimas versões com o comando **sudo apt upgrade** 
 
 
 
