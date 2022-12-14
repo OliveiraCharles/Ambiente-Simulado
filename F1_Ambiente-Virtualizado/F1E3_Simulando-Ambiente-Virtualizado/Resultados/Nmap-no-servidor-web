@@ -1,0 +1,376 @@
+NMAP
+Kali (10.0.0.100) -> (172.22.22.97)
+
+
+NMAP na porta 55
+
+{
+  "_index": "pfsense",
+  "_type": "_doc",
+  "_id": "fN8H84QB_l10DLJiwSrg",
+  "_version": 1,
+  "_score": 1,
+  "_source": {
+    "facility": 0,
+    "message": "<134>Dec  8 15:37:57 filterlog[12185]: 48,,,1666634471,hn0,match,pass,in,4,0x0,,40,30902,0,none,6,tcp,44,10.0.0.99,172.22.22.97,57922,55,0,S,227027675,,1024,,mss",
+    "facility_label": "syslogd",
+    "@version": "1",
+    "@timestamp": "2022-12-08T18:37:57.946Z",
+    "priority": 0,
+    "severity_label": "Emergency",
+    "host": "172.22.22.100",
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "severity": 0
+  },
+  "fields": {
+    "severity": [
+      0
+    ],
+    "tags.keyword": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@version.keyword": [
+      "1"
+    ],
+    "severity_label.keyword": [
+      "Emergency"
+    ],
+    "message": [
+      "<134>Dec  8 15:37:57 filterlog[12185]: 48,,,1666634471,hn0,match,pass,in,4,0x0,,40,30902,0,none,6,tcp,44,10.0.0.99,172.22.22.97,57922,55,0,S,227027675,,1024,,mss"
+    ],
+    "priority": [
+      0
+    ],
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@timestamp": [
+      "2022-12-08T18:37:57.946Z"
+    ],
+    "message.keyword": [
+      "<134>Dec  8 15:37:57 filterlog[12185]: 48,,,1666634471,hn0,match,pass,in,4,0x0,,40,30902,0,none,6,tcp,44,10.0.0.99,172.22.22.97,57922,55,0,S,227027675,,1024,,mss"
+    ],
+    "host": [
+      "172.22.22.100"
+    ],
+    "@version": [
+      "1"
+    ],
+    "host.keyword": [
+      "172.22.22.100"
+    ],
+    "facility": [
+      0
+    ],
+    "facility_label.keyword": [
+      "syslogd"
+    ],
+    "severity_label": [
+      "Emergency"
+    ],
+    "facility_label": [
+      "syslogd"
+    ]
+  }
+}
+--------------------------------------------------------------------------
+{
+  "_index": "pfsense",
+  "_type": "_doc",
+  "_id": "fd8H84QB_l10DLJiwSrg",
+  "_version": 1,
+  "_score": 1,
+  "_source": {
+    "facility": 0,
+    "message": "<134>Dec  8 15:37:57 filterlog[12185]: 48,,,1666634471,hn0,match,pass,in,4,0x0,,40,30902,0,none,6,tcp,44,10.0.0.99,172.22.22.97,57922,55,0,S,227027675,,1024,,mss",
+    "facility_label": "syslogd",
+    "@version": "1",
+    "@timestamp": "2022-12-08T18:37:57.946Z",
+    "priority": 0,
+    "severity_label": "Emergency",
+    "host": "172.22.22.100",
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "severity": 0
+  },
+  "fields": {
+    "severity": [
+      0
+    ],
+    "tags.keyword": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@version.keyword": [
+      "1"
+    ],
+    "severity_label.keyword": [
+      "Emergency"
+    ],
+    "message": [
+      "<134>Dec  8 15:37:57 filterlog[12185]: 48,,,1666634471,hn0,match,pass,in,4,0x0,,40,30902,0,none,6,tcp,44,10.0.0.99,172.22.22.97,57922,55,0,S,227027675,,1024,,mss"
+    ],
+    "priority": [
+      0
+    ],
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@timestamp": [
+      "2022-12-08T18:37:57.946Z"
+    ],
+    "message.keyword": [
+      "<134>Dec  8 15:37:57 filterlog[12185]: 48,,,1666634471,hn0,match,pass,in,4,0x0,,40,30902,0,none,6,tcp,44,10.0.0.99,172.22.22.97,57922,55,0,S,227027675,,1024,,mss"
+    ],
+    "host": [
+      "172.22.22.100"
+    ],
+    "@version": [
+      "1"
+    ],
+    "host.keyword": [
+      "172.22.22.100"
+    ],
+    "facility": [
+      0
+    ],
+    "facility_label.keyword": [
+      "syslogd"
+    ],
+    "severity_label": [
+      "Emergency"
+    ],
+    "facility_label": [
+      "syslogd"
+    ]
+  }
+}
+-----------------------------------------------------------------------------
+NMAP na porta 21
+
+{
+  "_index": "pfsense",
+  "_type": "_doc",
+  "_id": "uN8G84QB_l10DLJidiXm",
+  "_version": 1,
+  "_score": 1,
+  "_source": {
+    "facility": 0,
+    "message": "<134>Dec  8 15:36:37 filterlog[12185]: 48,,,1666634471,hn0,match,pass,in,4,0x0,,44,18063,0,none,6,tcp,44,10.0.0.99,172.22.22.97,63822,21,0,S,2251927030,,1024,,mss",
+    "facility_label": "syslogd",
+    "@version": "1",
+    "@timestamp": "2022-12-08T18:36:37.886Z",
+    "priority": 0,
+    "severity_label": "Emergency",
+    "host": "172.22.22.100",
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "severity": 0
+  },
+  "fields": {
+    "severity": [
+      0
+    ],
+    "tags.keyword": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@version.keyword": [
+      "1"
+    ],
+    "severity_label.keyword": [
+      "Emergency"
+    ],
+    "message": [
+      "<134>Dec  8 15:36:37 filterlog[12185]: 48,,,1666634471,hn0,match,pass,in,4,0x0,,44,18063,0,none,6,tcp,44,10.0.0.99,172.22.22.97,63822,21,0,S,2251927030,,1024,,mss"
+    ],
+    "priority": [
+      0
+    ],
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@timestamp": [
+      "2022-12-08T18:36:37.886Z"
+    ],
+    "message.keyword": [
+      "<134>Dec  8 15:36:37 filterlog[12185]: 48,,,1666634471,hn0,match,pass,in,4,0x0,,44,18063,0,none,6,tcp,44,10.0.0.99,172.22.22.97,63822,21,0,S,2251927030,,1024,,mss"
+    ],
+    "host": [
+      "172.22.22.100"
+    ],
+    "@version": [
+      "1"
+    ],
+    "host.keyword": [
+      "172.22.22.100"
+    ],
+    "facility": [
+      0
+    ],
+    "facility_label.keyword": [
+      "syslogd"
+    ],
+    "severity_label": [
+      "Emergency"
+    ],
+    "facility_label": [
+      "syslogd"
+    ]
+  }
+}
+-----------------------------------------------------------------
+{
+  "_index": "pfsense",
+  "_type": "_doc",
+  "_id": "ud8G84QB_l10DLJidiXm",
+  "_version": 1,
+  "_score": 1,
+  "_source": {
+    "facility": 0,
+    "message": "<134>Dec  8 15:36:37 filterlog[12185]: 48,,,1666634471,hn0,match,pass,in,4,0x0,,44,18063,0,none,6,tcp,44,10.0.0.99,172.22.22.97,63822,21,0,S,2251927030,,1024,,mss",
+    "facility_label": "syslogd",
+    "@version": "1",
+    "@timestamp": "2022-12-08T18:36:37.886Z",
+    "priority": 0,
+    "severity_label": "Emergency",
+    "host": "172.22.22.100",
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "severity": 0
+  },
+  "fields": {
+    "severity": [
+      0
+    ],
+    "tags.keyword": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@version.keyword": [
+      "1"
+    ],
+    "severity_label.keyword": [
+      "Emergency"
+    ],
+    "message": [
+      "<134>Dec  8 15:36:37 filterlog[12185]: 48,,,1666634471,hn0,match,pass,in,4,0x0,,44,18063,0,none,6,tcp,44,10.0.0.99,172.22.22.97,63822,21,0,S,2251927030,,1024,,mss"
+    ],
+    "priority": [
+      0
+    ],
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@timestamp": [
+      "2022-12-08T18:36:37.886Z"
+    ],
+    "message.keyword": [
+      "<134>Dec  8 15:36:37 filterlog[12185]: 48,,,1666634471,hn0,match,pass,in,4,0x0,,44,18063,0,none,6,tcp,44,10.0.0.99,172.22.22.97,63822,21,0,S,2251927030,,1024,,mss"
+    ],
+    "host": [
+      "172.22.22.100"
+    ],
+    "@version": [
+      "1"
+    ],
+    "host.keyword": [
+      "172.22.22.100"
+    ],
+    "facility": [
+      0
+    ],
+    "facility_label.keyword": [
+      "syslogd"
+    ],
+    "severity_label": [
+      "Emergency"
+    ],
+    "facility_label": [
+      "syslogd"
+    ]
+  }
+}
+
+
+    
+    "facility_label": [
+      "syslogd"
+    ]
+  }
+}
+---------------------------------------------------------------------------------------
+{
+  "_index": "pfsense",
+  "_type": "_doc",
+  "_id": "Et7y8oQB_l10DLJim-i7",
+  "_version": 1,
+  "_score": 1,
+  "_source": {
+    "facility": 0,
+    "message": "<134>Dec  8 15:14:56 filterlog[12185]: 48,,,1666634471,hn0,match,pass,in,4,0x0,,64,37132,0,DF,6,tcp,60,10.0.0.99,172.22.22.97,42130,21,0,S,3902986967,,64240,,mss;sackOK;TS;nop;wscale",
+    "facility_label": "syslogd",
+    "@version": "1",
+    "@timestamp": "2022-12-08T18:14:56.538Z",
+    "priority": 0,
+    "severity_label": "Emergency",
+    "host": "172.22.22.100",
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "severity": 0
+  },
+  "fields": {
+    "severity": [
+      0
+    ],
+    "tags.keyword": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@version.keyword": [
+      "1"
+    ],
+    "severity_label.keyword": [
+      "Emergency"
+    ],
+    "message": [
+      "<134>Dec  8 15:14:56 filterlog[12185]: 48,,,1666634471,hn0,match,pass,in,4,0x0,,64,37132,0,DF,6,tcp,60,10.0.0.99,172.22.22.97,42130,21,0,S,3902986967,,64240,,mss;sackOK;TS;nop;wscale"
+    ],
+    "priority": [
+      0
+    ],
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@timestamp": [
+      "2022-12-08T18:14:56.538Z"
+    ],
+    "message.keyword": [
+      "<134>Dec  8 15:14:56 filterlog[12185]: 48,,,1666634471,hn0,match,pass,in,4,0x0,,64,37132,0,DF,6,tcp,60,10.0.0.99,172.22.22.97,42130,21,0,S,3902986967,,64240,,mss;sackOK;TS;nop;wscale"
+    ],
+    "host": [
+      "172.22.22.100"
+    ],
+    "@version": [
+      "1"
+    ],
+    "host.keyword": [
+      "172.22.22.100"
+    ],
+    "facility": [
+      0
+    ],
+    "facility_label.keyword": [
+      "syslogd"
+    ],
+    "severity_label": [
+      "Emergency"
+    ],
+    "facility_label": [
+      "syslogd"
+    ]
+  }
+}
+----------------------------------------------------------------------------------------
