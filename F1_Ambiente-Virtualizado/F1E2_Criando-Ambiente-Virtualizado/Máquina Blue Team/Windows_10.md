@@ -84,13 +84,11 @@ Após o Boot do Sistema Operacional será apresentada a primeira tela do sistema
 - **_Time and currency format:_** Portuguese(Brazil)  
 - **_Keyport or input method:_** Portuguese(Brazilian ABTN2) 
 
-A seguir clique em **_"Next"_**
+A seguir clique em **_"Next"_**  
+![image](https://user-images.githubusercontent.com/105310922/207738548-68a66efe-69c8-41d0-a4c6-25408b3c556a.png)
 
-Clique em **_Install Now:_** 
-![image](https://user-images.githubusercontent.com/105310922/207499323-1569b082-3307-475b-b457-c2d30211c4a9.png)
-
- 
-![image](https://user-images.githubusercontent.com/105310922/207500361-bee655e9-bcd8-4095-b559-9393fcc6fb95.png)
+Clique em **_Install Now:_**  
+![image](https://user-images.githubusercontent.com/105310922/207738584-a4e57b83-aa97-4624-acbb-ed94c1699603.png)
 
 Na tela a seguir, **aceite os termos** de licença, e clique em **_Next_**
 ![image](https://user-images.githubusercontent.com/105310922/207501003-35b577a4-d91f-4a42-bf0d-765167c0fab6.png)
