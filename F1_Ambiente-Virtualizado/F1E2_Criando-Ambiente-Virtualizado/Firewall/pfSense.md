@@ -53,7 +53,7 @@ Ademais, no intuito de diminuir ruído na rede e na coleta de logs, na aba de Se
 1. LAN
    ![](./../../../img/pfSense/rules-lan.png)
 
-1. WAN
+2. WAN
    ![](./../../../img/pfSense/rules-wan.png)
 
 ## Aliases
@@ -70,8 +70,10 @@ Ademais, no intuito de diminuir ruído na rede e na coleta de logs, na aba de Se
 
 ## Logs
 
+1. Na criação das "rules"
 ![logs](./../../../img/pfSense/log.jpeg)
 
+2. Em Status -> System Logs -> Settings
 ![logs](./../../../img/pfSense/log2.jpeg)
 
 # [![Home][homeimage]][homelink] [![Top][topimage]](#)
