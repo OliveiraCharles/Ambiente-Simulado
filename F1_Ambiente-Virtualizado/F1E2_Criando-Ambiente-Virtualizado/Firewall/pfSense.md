@@ -48,13 +48,13 @@ Foi criado uma função NAT Outbound entre os IPs da rede WAN e LAN para que os 
 
 Ademais, no intuito de diminuir ruído na rede e na coleta de logs, na aba de Services foi desabilitado todos os tipos de DHCP e NTP afim de diminuir logs que não sejam referentes as rules configuradas.
 
-### Regras
+## Regras
 
 1. LAN
-   ![](./../../../img/pfSense/rules-lan.png)
+![](./../../../img/pfSense/rules-lan.png)
 
 2. WAN
-   ![](./../../../img/pfSense/rules-wan.png)
+![](./../../../img/pfSense/rules-wan.png)
 
 ## Aliases
 
