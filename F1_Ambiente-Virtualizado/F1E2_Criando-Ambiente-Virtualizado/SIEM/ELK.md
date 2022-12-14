@@ -272,3 +272,10 @@ cd /usr/share/logstash
 ```BASH
 sudo /bin/logstash -f /etc/logstash/nome_do_arquivo.conf
 ```
+
+
+# [![Home][homeimage]][homelink] [![Top][topimage]](#)
+
+[topimage]: https://img.shields.io/badge/-Voltar_ao_topo-grey
+[homeimage]: https://img.shields.io/badge/-Home-blue
+[homelink]: ./../../../README.md#
