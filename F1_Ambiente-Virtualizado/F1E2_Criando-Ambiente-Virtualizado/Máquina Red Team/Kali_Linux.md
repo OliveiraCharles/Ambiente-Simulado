@@ -141,33 +141,33 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
   10. Tela 10  
   ![image](https://user-images.githubusercontent.com/105310922/207702790-433fe1fb-2a43-4a29-9545-528e492ce3b3.png)
   
-  11. Tela 11
+  11. Tela 11  
   ![image](https://user-images.githubusercontent.com/105310922/207703251-c05a1cab-f503-4461-b13f-89f4eb24c854.png)
   
-  12. Tela 12  
+  12. Tela 12    
   ![image](https://user-images.githubusercontent.com/105310922/207703362-2a242e7c-d04d-413d-b98c-5e057d081b56.png)
   
-  13. Tela 13  
+  13. Tela 13    
   ![image](https://user-images.githubusercontent.com/105310922/207703546-b2d33039-79ba-4bff-b571-59a13c52f0a7.png)
   
-  14. Tela 14  
+  14. Tela 14    
   ![image](https://user-images.githubusercontent.com/105310922/207703863-66cab011-e481-44f5-a96c-cd3158cbbdb4.png)
   
-  15. Aguarde o sistema realizar as configurações... 
+  15. Aguarde o sistema realizar as configurações...   
   ![image](https://user-images.githubusercontent.com/105310922/207704033-3fd226ec-f13b-42d4-a1be-40256d7249c0.png)
   
-  16. Tela 16 
+  16. Tela 16  
   ![image](https://user-images.githubusercontent.com/105310922/207704339-915ba0a6-cebc-4e0b-acdc-def76eafbabd.png)
   
-  17. Tela 17 
+  17. Tela 17   
   ![image](https://user-images.githubusercontent.com/105310922/207704489-c9f40389-86dc-4a39-844d-7e199f37776e.png)
+  
+  18. Tela 18  
+  ![image](https://user-images.githubusercontent.com/105310922/207704912-e09b9f3a-b86f-4ab6-af3e-1d8be6618833.png)
 
   
-  14. Tela 14  
-  ![image](https://user-images.githubusercontent.com/105310922/207703863-66cab011-e481-44f5-a96c-cd3158cbbdb4.png)
-  
-  14. Tela 14 
-  ![image](https://user-images.githubusercontent.com/105310922/207703863-66cab011-e481-44f5-a96c-cd3158cbbdb4.png)
+  20. Pronto, o seu sistema Kali está pronto para uso    
+  ![image](https://user-images.githubusercontent.com/105310922/207704990-bbac685c-ebda-4e0a-b8d0-1cf3a221c00b.png)
 
 
 ### Configurando-o-sistema
