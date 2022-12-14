@@ -6,8 +6,7 @@
   - [c. Instalação do Kibana](#c-instalação-do-kibana)
   - [d. Instalação do LogStash](#d-instalação-do-logstash)
 - [Iniciando um Script](#e-para-iniciar-um-script)
-  [<h6>[voltar]</h6>](#sumário)
-
+ 
 # 1. Instalando o ELK
 
 [[github.com/StehMaria/]](https://github.com/StehMaria/Instala-o-ELK-Stack/blob/main/README.md): Como Instalar Elasticsearch, Logstash e Kibana no Ubuntu
