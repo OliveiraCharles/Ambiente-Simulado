@@ -17,7 +17,7 @@
 ## Preparação do ambiente
 
 ### Instalação
-Neste documento será apresentado o passo a passo para a configuração do sistema operacional na de _Red Team_, que para fins do projeto foi utilizado o Sistema Kali Linux 2022.4
+Neste documento será apresentado o passo a passo para a instalação do sistema operacional Kali na máquina de _Red Team_, que para fins do projeto foi utilizado o Sistema Kali Linux 2022.4
 
 ### Requisitos
 
