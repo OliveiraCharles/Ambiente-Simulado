@@ -42,7 +42,7 @@ Neste repositório estão presentes os paso a passo de toda preparação do **Am
 
 - F1 Criando o **Ambiente Simulado**
   - [Habilitando e configurando o **Hyper-V** (Gerenciador do ambiente virtual)](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Hyper-V/hyper-v.md)
-  - [Instalando o **Windows 10** (Blue Team Machine)\*](F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Máquina%20Blue%20Team/windows10.md)
+  - [Instalando o **Windows 10** (Blue Team Machine)\*](F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Máquina%20Blue%20Team/Windows_10.md)
   - [Instalando o **Kali Linux 2022** (Red Team Machine)\*](F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Máquina%20Red%20Team/Kali_Linux.md)
   - [Instalando o **pfSense** (Firewall)\*](F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Firewall/pfSense.md)
   - [Instalando o **Servidor DNS**\*](F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Servidor%20DNS/dnsServer.md)
