@@ -68,29 +68,47 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
 
 1. [Habilite o Hyper-V](../Hyper-V/hyper-v.md)
 
-1.
 ## Criação da VM
 
+1. Em **Gerenciador do Hyper-v** no menu da esquerda selecione item com o nome do _computador físico_
+1. No menu de **Ações** à direita, clique na opção 'Novo > Máquina Virtual'
+1. Em **Assistente de Nova Máquina Virtual**,
 
-2º - Em seguida realize a criação de um ambiente virtual no Hyper-V. Utilizando o tutorial do link a seguir:
-[Criando Marquina virtual](./../../F1E2_Criando-Ambiente-Virtualizado/Hyper-V/hyper-v.md/#criando-uma-vm-máquina-virtual)
+   1. **Antes de Começar**, leia as recomendações e clique no botão 'Avançar'.
+   1. **Especificar Nome e Local**, dê um nome à nova Máquina Virtual e clique no botão 'Avançar'.
+      - [ kali-linux ]
+   1. **Especificar Geração**, selecione a geração desejada e clique no botão 'Avançar'.
 
+      - [  ] Geração 1
+      - [x ] Geração 2
 
-Criando uma VM (Máquina Virtual)
-Em Gerenciador do Hyper-v no menu da esquerda selecione item com o nome do computador físico
+   1. **Atribuir Memória**, no campo _Memória de inicialização_ digite o valor desejado e clique no botão 'Avançar'.  
+      Especifique a quantidade de memória a ser alocada na máquina virtual. É possível especificar uma quanbdade de 32MB até 251658240 MB. Para melhorar o desempenho, especifique mais do que o mínimo recomendado para o sistema operacional.
+      - [4096]MB
+   1. **Configurar Rede**, no campo _Conexão_ selecione qual comutador de rede deseja utilizar e clique no botão 'Avançar'.
+      - Default Switch
+   1. **Conectar Disco Rígido Virtual**
 
-No menu de Ações à direita, clique na opção 'Novo > Máquina Virtual'
+      - **Criar um disco Rígido Virtual**  
+        Use esta opção para criar um disco rígido virtual de expansão dinâmica VHDX.
 
-Em Assistente de Nova Máquina Virtual,
+        1. Dê um nome ao _novo disco rígido virtual_ a ser criado
+           - [ kali-linux.vhdx ]
+        1. Selecione o local onde sera salvo o _novo disco rígido virtual_
+           - [ C:\Users\Public\Documents\Hyper-V\Virtual Hard Disks\ ]
+        1. Selecione o tamanho de armazenamento do _novo disco rígido virtual_ em GB (Máximo: 64TB)
+           - [ 32 ] GB
+        1. Clique no botão 'Avançar'.
+        1. **Opções de instalação**
 
-Antes de Começar, leia as recomendações e clique no botão 'Avançar'.
+           - **Instalar um sistema operacional a partir de um arquivo de imagem**
+             1. Insira o caminho do arquivo .ISO
+                - [ C:\Users\...\ISO\Kali-Linux.ISO ]
+             1. Clique no botão 'Avançar'.
 
-Especificar Nome e Local, dê um nome à nova Máquina Virtual e clique no botão 'Avançar'.
+   1. **Resumo**
+      _Assistente de Nova Máquina Virtual_ concluído com êxito, Você está prestes a criar a máquina virtual a seguir.
 
-[ windows-server-2016 ]
-Especificar Geração, selecione a geração desejada e clique no botão 'Avançar'.
-
- Geração 1
 
 # [![Home][homeimage]][homelink] [![Top][topimage]](#)
 
