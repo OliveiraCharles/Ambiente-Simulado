@@ -57,13 +57,13 @@ A seguir clique em **_"Next"_**
 12º - Na tela de ativação da tela de produto, selecione a opção **_Skip_**
 ![image](https://user-images.githubusercontent.com/105310922/207504436-d30e157f-3f0b-42e3-acac-93246622208d.png)
 
-13º - Na tela de ativação da tela de produto, selecione a opção **_Skip_**
+13º - Clique em "Use recommended settings"  
 ![image](https://user-images.githubusercontent.com/105310922/207504484-74b77ad2-acfc-4f4c-b971-147344a41cb2.png)
 
-14º - Na tela de ativação da tela de produto, selecione a opção **_Skip_**
+14º - Selecione a **_Time Zone_** desejada e clique em **_Next_**
 ![image](https://user-images.githubusercontent.com/105310922/207504547-4e80e448-b899-4d24-9e73-bfb32cd7c0cd.png)
 
-15º - Nesta tela deverá selecionado o tipo de conexão de rede. Para este projeto como se trata de um ambiente simulado, foi configurado o tipo de rede "Residencial" através da opção **_Home NetworkSkip_**
+15º - Nesta tela deverá selecionado o tipo de conexão de rede. Para este projeto como se trata de um ambiente simulado, foi configurado o tipo de rede "Residencial" através da opção **_Home Network_**
 ![image](https://user-images.githubusercontent.com/105310922/207504614-d61e1b87-7d92-4776-8fec-115271388e94.png)
 
 16º - Após a realização de todas as configurações, o Sistema Operacional Windows 7 será inicializado e estará pronta para o uso.
