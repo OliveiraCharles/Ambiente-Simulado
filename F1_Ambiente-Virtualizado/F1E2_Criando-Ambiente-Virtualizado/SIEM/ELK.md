@@ -10,8 +10,6 @@
 
 # 1. Instalando o ELK
 
-[<h6>[voltar]</h6>](#sumário)
-
 [[github.com/StehMaria/]](https://github.com/StehMaria/Instala-o-ELK-Stack/blob/main/README.md): Como Instalar Elasticsearch, Logstash e Kibana no Ubuntu
 
 O **ELK Stack** é uma ferramenta gratuita da **Elastic** com softwares para pesquisar, analisar e visualizar logs ajudando no monitoramento de equipamentos.
@@ -25,8 +23,6 @@ O **ELK Stack** é uma ferramenta gratuita da **Elastic** com softwares para pes
 - Beats – Agentes que envia dados coletados para o Logstash ou Elasticsearch.
 
 ## a. Configuração da máquina virtual
-
-[<h6>[voltar]</h6>](#sumário)
 
 Para utilizar o ELK Stack, vamos configurar uma **máquina virtual** com as seguintes configurações:
 
@@ -189,8 +185,6 @@ curl -X GET "http:localhost:9200"
 
 ## C. Instalação do Kibana:
 
-[<h6>[voltar]</h6>](#sumário)
-
 1. Atualize os pacotes:
 
 ```BASH
@@ -235,8 +229,6 @@ sudo systemctl status kibana
 
 ## d. Instalação do Logstash
 
-[<h6>[voltar]</h6>](#sumário)
-
 1. Instale o Logstash:
 
 ```BASH
@@ -263,8 +255,6 @@ sudo systemctl status logstash
 
 ## e. Para iniciar um script
 
-[<h6>[voltar]</h6>](#sumário)
-
 ```BASH
 cd /usr/share/logstash
 ```
@@ -272,7 +262,6 @@ cd /usr/share/logstash
 ```BASH
 sudo /bin/logstash -f /etc/logstash/nome_do_arquivo.conf
 ```
-
 
 # [![Home][homeimage]][homelink] [![Top][topimage]](#)
 
