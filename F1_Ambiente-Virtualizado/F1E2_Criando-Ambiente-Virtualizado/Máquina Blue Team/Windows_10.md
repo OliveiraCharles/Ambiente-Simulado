@@ -80,9 +80,10 @@ Após o Boot do Sistema Operacional será apresentada a primeira tela do sistema
 
 A seguir clique em **_"Next"_**
 
+Clique em **_Install Now:_** 
 ![image](https://user-images.githubusercontent.com/105310922/207499323-1569b082-3307-475b-b457-c2d30211c4a9.png)
 
-Clique em **_Install Now:_**  
+ 
 ![image](https://user-images.githubusercontent.com/105310922/207500361-bee655e9-bcd8-4095-b559-9393fcc6fb95.png)
 
 Na tela a seguir, **aceite os termos** de licença, e clique em **_Next_**
