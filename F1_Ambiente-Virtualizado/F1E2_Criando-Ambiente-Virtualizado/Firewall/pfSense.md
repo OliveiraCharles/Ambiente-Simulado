@@ -68,6 +68,12 @@ Ademais, no intuito de diminuir ruído na rede e na coleta de logs, na aba de Se
 
 ![dashboard](./../../../img/pfSense/dashboard.png)
 
+## Logs
+
+![logs](./../../../img/pfSense/log.jpeg)
+
+![logs](./../../../img/pfSense/log2.jpeg)
+
 # [![Home][homeimage]][homelink] [![Top][topimage]](#)
 
 [topimage]: https://img.shields.io/badge/-Voltar_ao_topo-grey
