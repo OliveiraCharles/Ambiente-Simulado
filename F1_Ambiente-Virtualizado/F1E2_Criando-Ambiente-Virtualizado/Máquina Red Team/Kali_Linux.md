@@ -129,14 +129,14 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
   6. Tela 6  
   ![image](https://user-images.githubusercontent.com/105310922/207699678-fb1880b8-3426-47b7-bceb-7085b1164d98.png)
   
-  1. Tela 1  
-  ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
+  7. Tela 7 
+  ![image](https://user-images.githubusercontent.com/105310922/207702023-c3c3b069-152c-4516-98c8-d29d98f88415.png)
   
-  1. Tela 1  
-  ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
+  8. Tela 8  
+  ![image](https://user-images.githubusercontent.com/105310922/207702157-d2313d5b-6217-42d4-bf61-bd3d636902fc.png)
   
-  1. Tela 1  
-  ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
+  9. Tela 9  
+  ![image](https://user-images.githubusercontent.com/105310922/207702500-042df26c-9479-4e7c-8df0-67ee70b0b0dc.png)
   
   1. Tela 1  
   ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
