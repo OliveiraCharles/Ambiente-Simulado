@@ -111,23 +111,23 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
 
 ### Instalando a .ISO
 
-  1. Assim que a máquina for inicializada pela primeira vez, após o boot do Kali será necessário escolher o Modo de instalação, clique em **_"Graphic Install"_**  
+  1. Assim que a máquina for inicializada pela primeira vez, após o boot do Kali será necessário escolher o Modo de instalação, clique em **_"Graphical Install"_**  
   ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
   
-  2. Em seguida, selecione o idioma desejada. Para este caso selecionaremos **_"Enligsh"_**  
+  2. Em seguida, selecione o idioma desejada. Para este caso selecionaremos: **_"Enligsh"_**  
   ![image](https://user-images.githubusercontent.com/105310922/207696452-ebf39793-aca8-4167-b8a5-c4f5e105b0df.png)
   
-  1. Tela 1  
-  ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
+  3. Selecione a localização em que se encontra. Para este manteremos como: **_"United States"_** 
+  ![image](https://user-images.githubusercontent.com/105310922/207697662-90f651ea-01c4-4c2a-be4e-a4cc0098a5b2.png)
   
-  1. Tela 1  
-  ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
+  4. Tela 4  
+  ![image](https://user-images.githubusercontent.com/105310922/207698093-b4d4e330-2c91-43b7-8823-9a56c3768b70.png)
   
-  1. Tela 1  
-  ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
+  5. Tela 5  
+![image](https://user-images.githubusercontent.com/105310922/207699120-fbdd7c50-3a15-4a25-b2af-0e81161dca18.png)
   
-  1. Tela 1  
-  ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
+  6. Tela 6  
+  ![image](https://user-images.githubusercontent.com/105310922/207699678-fb1880b8-3426-47b7-bceb-7085b1164d98.png)
   
   1. Tela 1  
   ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
