@@ -1,4 +1,7 @@
-# Sumário
+#  Kali (Red Team Machine)
+
+
+## Sumário
 
 - [Preparação do Ambiente](#Preparação-do-ambiente)
   - [Baixando a ISO](#baixando-a-iso)
@@ -8,6 +11,10 @@
   - [Criando uma VM](#criando-uma-vm-máquina-virtual)
   - [Instalando a .ISO](#instalando-o-sistema-operacional-iso)
   - [Configurando o Sistema](#configurando-o-sistema)
+
+
+## Instalação
+Neste documento será apresentado o passo a passo para a configuração do sistema operacional na máquina de usuário, que para fins do projeto foi utilizado o Sistema Operacional Windows 7 Ultimate - 64 BifARRRUMAAAAAAAAAAAAAAAAAAAAAAAARRRRRRRRRRRRRRRRRRRR
 
 
 # Preparação do ambiente
@@ -72,6 +79,8 @@ Você pode configurar o Kali Linux como um servidor Secure Shell (SSH) básico s
 |    Armazenamento: |  5 GB        |    20 GB    |
 | Memória de vídeo: |  -           |    -        |
 
+2º - Em seguida realize a criação de um ambiente virtual no Hyper-V. Utilizando o tutorial do link a seguir:
+[Criando Marquina virtual](./../../F1E2_Criando-Ambiente-Virtualizado/Hyper-V/hyper-v.md/#criando-uma-vm-máquina-virtual)
 
 # [![Home][homeimage]][homelink] [![Top][topimage]](#)
 

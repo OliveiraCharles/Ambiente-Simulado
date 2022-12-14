@@ -1,24 +1,64 @@
-# Instalação - Windows 10 (Blue Team Machine)
+# Windows 10 (Blue Team Machine)
 
-#### Neste documento será apresentado o passo a passo para a configuração de um domínio na máquina de usuário que para fins do projeto foi utilizado o Sistema Operacional Windows 10 Professional - 64 Bits
+## Sumário
 
-**1º** - Acesse o link oficial da Microsoft e baixe o arquivo de Imagem do Sistema Operacional de sua preferência (**Obs:** Para este projeto foi utilzada a imagem Windows 7 Ultimate - 64 bits, conforme descrição)
- 
-**_Acesse o site oficial da Microsoft para realizar o download)_**
+- [Preparação do Ambiente](#Preparação-do-ambiente)
+  - [Baixando a ISO](#baixando-a-iso)
+  - [Configurando o Hyper-V](#configurando-o-hyper-v)
+- [Criação da VM](#criação-da-vm)
+  - [Requisitos Mínimos](#requisitos-mínimos)
+  - [Criando uma VM](#criando-uma-vm-máquina-virtual)
+  - [Instalando a .ISO](#instalando-o-sistema-operacional-iso)
+  - [Configurando o Sistema](#configurando-o-sistema)
 
-- _Windows 7 Ultimate x64:_ 
-[https://download.microsoft.com/download/5/1/9/5195A765-3A41-4A72-87D8-200D897CBE21/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_ULTIMATE_x64FRE_en-us.iso](https://www.microsoft.com/pt-br/software-download/windows10)
 
-- _Windows 7 Ultimate x86:_
-https://download.microsoft.com/download/1/E/6/1E6B4803-DD2A-49DF-8468-69C0E6E36218/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_ULTIMATE_x86FRE_en-us.iso
+## Instalação
 
-- _Windows 7 Professional x64:_ 
-https://download.microsoft.com/download/0/6/3/06365375-C346-4D65-87C7-EE41F55F736B/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_PROFESSIONAL_x64FRE_en-us.iso
+Neste documento será apresentado o passo a passo para a configuração do Sistema Operacional na máquina do Blue Team, que para fins do projeto foi utilizado o Sistema Operacional Windows 10 Professional - 64 Bits
 
-- _Windows 7 Professional x86:_  
-https://download.microsoft.com/download/C/0/6/C067D0CD-3785-4727-898E-60DC3120BB14/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_PROFESSIONAL_x86FRE_en-us.iso
+## Requisitos
 
-2º - Em seguida realize a criação de um ambiente virtual no Hyper-V e clique em Nova Máquina
+> Sistema Operacional: Windows 10
+
+|   Máquina Virtual | Mínimo  | Recomendado |
+| ----------------: | :-----: | :---------: |
+|    Processadores: |    2    |      4      |
+|       Arquitetura | 64 bits |   64 bits   |
+|      Memória RAM: |  2 GB   |    4 GB     |
+|    Armazenamento: |  32 GB  |    32 GB    |
+| Memória de vídeo: |  64 MB  |    64 MB    |
+
+## Instalação
+
+1. Baixe o Windows 10
+
+   Para começar, primeiro você precisa ter uma **licença** para instalar o Windows 10. Você pode então fazer download e executar a ferramenta de criação de mídia.
+
+1. Faça o [download](https://go.microsoft.com/fwlink/?LinkId=691209) e execute a _ferramenta de criação de mídia_.
+
+   > **Note**: Você precisa ser administrador para executar esta ferramenta.
+
+1. Se você concordar com os termos de licença, selecione Aceitar.
+1. Na página _O que você deseja fazer?_ selecione Criar mídia de instalação para um outro computador e selecione Avançar.
+   Selecione o idioma, a edição e a arquitetura (64 bits ou 32 bits) do Windows 10.
+
+   - [x] Windows 10 (64 bits)
+
+1. Selecione a mídia que você deseja usar:
+
+   - [ ] Pen drive.
+
+     > Conecte um pen drive vazio com, pelo menos, 8GB de espaço. Todo conteúdo do pen drive será excluído.
+
+   - [x] Arquivo ISO.
+
+     > Salve um arquivo ISO em seu computador, que pode ser usado para criar um DVD. Depois que o arquivo é baixado, você pode ir até o local em que o arquivo foi salvo ou selecionar Abrir gravador de DVD e seguir as instruções para gravar o arquivo em um DVD.
+
+1. Depois que a mídia de instalação estiver criada, siga as etapas [Criando uma maquina virtual](./../Hyper-V/hyper-v.md#criando-uma-vm-máquina-virtual) utilizando o tutorial do Hyper-V para usá-las.
+
+   > Após concluir as etapas para instalar o Windows 10, verifique se você tem todos os drivers de dispositivo necessários instalados. Para verificar se há atualizações agora, selecione o botão Iniciar, acesse Configurações > Atualização e Segurança > Windows Update e selecione Verificar se há atualizações.
+
+## Configurações
 
 3º - Após o Boot do Sistema Operacional será apresentada a primeira tela do sistema onde serão solicitadas as configurações de linguagem, local, hora e teclado. Para este projeto foi aplicado as respectivas configurações abaixo:
 
@@ -69,6 +109,11 @@ A seguir clique em **_"Next"_**
 16º - Após a realização de todas as configurações, o Sistema Operacional Windows 7 será inicializado e estará pronta para o uso.
 ![image](https://user-images.githubusercontent.com/105310922/207504662-37c37bd3-014b-4938-83e8-db597c7970bc.png)
 
+
+# [![Home][homeimage]][homelink] [![Top][topimage]](#)
+[topimage]: https://img.shields.io/badge/-Voltar_ao_topo-grey
+[homeimage]: https://img.shields.io/badge/-Home-blue
+[homelink]: ./../../../README.md#
 
 
 
