@@ -9,7 +9,7 @@
   - [Configurando o Hyper-V](#configurando-o-hyper-v)
 - [Criação da VM](#criação-da-vm)
   - [Criação do Ambiente virtual](#criação-do-ambiente-virtual)
-  - [Instalando a .ISO](#instalação-da-.ISO)
+  - [Instalando a .ISO](#instalando-a-.ISO)
   - [Configurando o Sistema](#configurando-o-sistema)
 
 
@@ -84,7 +84,7 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
       Especifique a quantidade de memória a ser alocada na máquina virtual. É possível especificar uma quanbdade de 32MB até 251658240 MB. Para melhorar o desempenho, especifique mais do que o mínimo recomendado para o sistema operacional.
       - [8192]MB
    1. **Configurar Rede**, no campo _Conexão_ selecione qual comutador de rede deseja utilizar e clique no botão 'Avançar'.
-      - Internal Switch
+      - Default Switch
    1. **Conectar Disco Rígido Virtual**
 
       - **Criar um disco Rígido Virtual**  
@@ -109,9 +109,13 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
       
 
 
-### Instalação da .ISO
+### Instalando a .ISO
 
 ### Configurando-o-sistema
+
+  1. **Update:** Assim que o sistema inicializar, realize os updates de pacotes do repositório com o comando **sudo apt update** 
+  1. **Upgrade:** Assim que o sistema inicializar, realize os updates de pacotes do repositório com o comando **sudo apt upgrade** 
+
 
 
 # [![Home][homeimage]][homelink] [![Top][topimage]](#)
