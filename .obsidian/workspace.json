@@ -18,6 +18,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3c7261537c8d79c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a74eee1e299e4d3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/02 ADDS - Instalação e configuração básica.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/02 ADDS - Instalação e configuração básica.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/02 ADDS - Instalação e configuração básica.md"
+                "file": "README.md"
               }
             }
           }
@@ -154,7 +170,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/02 ADDS - Instalação e configuração básica.md",
+                    "file": "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Active Directory/02 ADDS - Instalação e configuração básica.md",
                     "mode": "source",
                     "source": false
                   }
@@ -173,13 +189,17 @@
       }
     ]
   },
-  "active": "878b57e30b645b77",
+  "active": "e2f1fd5e6399aa0f",
   "lastOpenFiles": [
+    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Active Directory/01 Instalação Windows Server 2016.md",
     "README.md",
-    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/02 ADDS - Instalação e configuração básica.md",
-    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/img/WinSrv/Pasted image 20221214143543.png",
-    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/metasploitable2/metasploitable2.md",
-    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/img/WinSrv/Pasted image 20221214143003.png",
-    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/01 Intalação Windows Server 2016.md"
+    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/winServer.md",
+    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Servidor Web/metasploitable2.md",
+    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Active Directory/02 ADDS - Instalação e configuração básica.md",
+    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Active Directory/03 LDAP over SSL.md",
+    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Máquinas Clientes/Windows7.md",
+    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Máquinas Clientes/Configuração_Domínio.md",
+    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Firewall/pfSense.md",
+    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Máquian Red Team/kaliLinux.md"
   ]
 }
