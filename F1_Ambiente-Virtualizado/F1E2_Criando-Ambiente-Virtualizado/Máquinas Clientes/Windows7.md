@@ -48,6 +48,9 @@ https://download.microsoft.com/download/0/6/3/06365375-C346-4D65-87C7-EE41F55F73
 - _Windows 7 Professional x86:_  
 https://download.microsoft.com/download/C/0/6/C067D0CD-3785-4727-898E-60DC3120BB14/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_PROFESSIONAL_x86FRE_en-us.iso
 
+### Configurando o Hyper-V
+
+1. [Habilite o Hyper-V](../Hyper-V/hyper-v.md)
 
 ## Criação da VM
 
