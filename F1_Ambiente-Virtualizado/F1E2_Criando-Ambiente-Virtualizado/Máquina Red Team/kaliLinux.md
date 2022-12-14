@@ -8,8 +8,7 @@
   - [Baixando a ISO](#baixando-a-iso)
   - [Configurando o Hyper-V](#configurando-o-hyper-v)
 - [Criação da VM](#criação-da-vm)
-  - [Requisitos Mínimos](#requisitos-mínimos)
-  - [Criando uma VM](#criando-uma-vm-máquina-virtual)
+  - [Criação do Ambiente virtual](#criação-do-ambiente-virtual)
   - [Instalando a .ISO](#instalando-o-sistema-operacional-iso)
   - [Configurando o Sistema](#configurando-o-sistema)
 
@@ -70,6 +69,8 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
 
 ## Criação da VM
 
+### Criação do Ambiente virtual
+
 1. Em **Gerenciador do Hyper-v** no menu da esquerda selecione item com o nome do _computador físico_
 1. No menu de **Ações** à direita, clique na opção 'Novo > Máquina Virtual'
 1. Em **Assistente de Nova Máquina Virtual**,
@@ -79,8 +80,8 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
       - [ kali-linux ]
    1. **Especificar Geração**, selecione a geração desejada e clique no botão 'Avançar'.
 
-      - [  ] Geração 1
-      - [x ] Geração 2
+      - [ ] Geração 1
+      - [x] Geração 2
 
    1. **Atribuir Memória**, no campo _Memória de inicialização_ digite o valor desejado e clique no botão 'Avançar'.  
       Especifique a quantidade de memória a ser alocada na máquina virtual. É possível especificar uma quanbdade de 32MB até 251658240 MB. Para melhorar o desempenho, especifique mais do que o mínimo recomendado para o sistema operacional.
@@ -108,6 +109,10 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
 
    1. **Resumo**
       _Assistente de Nova Máquina Virtual_ concluído com êxito, Você está prestes a criar a máquina virtual a seguir.
+      
+
+
+### Instalação da .ISO
 
 
 # [![Home][homeimage]][homelink] [![Top][topimage]](#)
