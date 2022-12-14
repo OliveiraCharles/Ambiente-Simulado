@@ -90,17 +90,22 @@ A seguir clique em **_"Next"_**
 Clique em **_Install Now:_**  
 ![image](https://user-images.githubusercontent.com/105310922/207738584-a4e57b83-aa97-4624-acbb-ed94c1699603.png)
 
+![image](https://user-images.githubusercontent.com/105310922/207738806-a80475e3-fecf-4ae5-a855-d9729cc5e203.png)
+
+![image](https://user-images.githubusercontent.com/105310922/207738914-6758ad76-e93f-41c4-86af-dd6237159cf8.png)
+
+
 Na tela a seguir, **aceite os termos** de licença, e clique em **_Next_**
-![image](https://user-images.githubusercontent.com/105310922/207501003-35b577a4-d91f-4a42-bf0d-765167c0fab6.png)
+![image](https://user-images.githubusercontent.com/105310922/207738986-f8d301ee-af5d-416e-b2a3-3f6b4a7726ad.png)
 
 Selecione a opção **_Custom (advanced)_**
-![image](https://user-images.githubusercontent.com/105310922/207501336-72939d9b-3a16-4151-a5d8-aa98e2301260.png)
+![image](https://user-images.githubusercontent.com/105310922/207739051-df95a438-6154-4bed-98ea-cfff578201af.png)
 
 Selecione o Disco a ser instalado o Sistema operacional e clique em **_"Next"_**
-![image](https://user-images.githubusercontent.com/105310922/207501901-9b95cce2-b99c-43e2-b8c0-6f7cfadf6b0a.png)
+![image](https://user-images.githubusercontent.com/105310922/207739125-2015760c-21c8-4d58-a11e-36b7e0ae8e05.png)
 
 Aguarde as configurações do Sistema Operacional serem carregadas...  
-![image](https://user-images.githubusercontent.com/105310922/207503941-deaffe5d-f651-41f8-bbe5-c1c61710f278.png)
+![image](https://user-images.githubusercontent.com/105310922/207739171-ac43592e-b1c2-46ae-a31a-5e96f6c88b7b.png)
 
 Após o sistema carregar todos os arquivos necessários o mesmo deverá será reinicilizado  
 ![image](https://user-images.githubusercontent.com/105310922/207503991-fb63cfdc-b8f2-494f-9085-98faad13ef80.png)
