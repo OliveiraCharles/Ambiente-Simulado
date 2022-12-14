@@ -9,7 +9,7 @@
   - [Configurando o Hyper-V](#configurando-o-hyper-v)
 - [Criação da VM](#criação-da-vm)
   - [Criação do Ambiente virtual](#criação-do-ambiente-virtual)
-  - [Instalando a .ISO](#instalando-o-sistema-operacional-iso)
+  - [Instalando a .ISO](#instalação-da-.ISO)
   - [Configurando o Sistema](#configurando-o-sistema)
 
 
@@ -45,8 +45,6 @@ Para requisitos do sistema:
 | Memória de vídeo: |  -           |    -        |
 
 
-
-
 ### Baixando a ISO
 
 Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
@@ -54,7 +52,6 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
 1º: Clicar na opção de Downloads.
 
 ![image](https://user-images.githubusercontent.com/105310922/206779801-24c2b0f4-7518-4d6b-8370-656371c23a07.png)
-
 
 2º: Em seguida deverá ser escolhido para qual plataforma o sistema operacional será instalado.
 
@@ -85,9 +82,9 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
 
    1. **Atribuir Memória**, no campo _Memória de inicialização_ digite o valor desejado e clique no botão 'Avançar'.  
       Especifique a quantidade de memória a ser alocada na máquina virtual. É possível especificar uma quanbdade de 32MB até 251658240 MB. Para melhorar o desempenho, especifique mais do que o mínimo recomendado para o sistema operacional.
-      - [4096]MB
+      - [8192]MB
    1. **Configurar Rede**, no campo _Conexão_ selecione qual comutador de rede deseja utilizar e clique no botão 'Avançar'.
-      - Default Switch
+      - Internal Switch
    1. **Conectar Disco Rígido Virtual**
 
       - **Criar um disco Rígido Virtual**  
@@ -98,7 +95,7 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
         1. Selecione o local onde sera salvo o _novo disco rígido virtual_
            - [ C:\Users\Public\Documents\Hyper-V\Virtual Hard Disks\ ]
         1. Selecione o tamanho de armazenamento do _novo disco rígido virtual_ em GB (Máximo: 64TB)
-           - [ 32 ] GB
+           - [ 20 ] GB
         1. Clique no botão 'Avançar'.
         1. **Opções de instalação**
 
@@ -113,6 +110,8 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
 
 
 ### Instalação da .ISO
+
+### Configurando-o-sistema
 
 
 # [![Home][homeimage]][homelink] [![Top][topimage]](#)
