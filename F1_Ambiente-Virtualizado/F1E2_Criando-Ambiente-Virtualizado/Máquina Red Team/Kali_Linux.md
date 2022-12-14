@@ -114,16 +114,16 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
   1. Assim que a máquina for inicializada pela primeira vez, após o boot do Kali será necessário escolher o Modo de instalação, clique em **_"Graphical Install"_**  
   ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
   
-  2. Em seguida, selecione o idioma desejado. Para este caso selecionaremos: **_"English"_**  
+  2. Em seguida, selecione o idioma desejado. Para este caso selecionaremos: **_"English"_**  e clique em **_"Continue"_**
   ![image](https://user-images.githubusercontent.com/105310922/207696452-ebf39793-aca8-4167-b8a5-c4f5e105b0df.png)
   
-  3. Selecione a localização em que se encontra. Para este manteremos como: **_"United States"_** 
+  3. Selecione a localização em que se encontra. Para este manteremos como: **_"United States"_** e clique em **_"Continue"_**
   ![image](https://user-images.githubusercontent.com/105310922/207697662-90f651ea-01c4-4c2a-be4e-a4cc0098a5b2.png)
   
-  4. Agora, selecione qual o tipo de mapeamento de seu teclado. Para nosso cenário selecionaremos: **_"Brazilian"_** 
+  4. Agora, selecione qual o tipo de mapeamento de seu teclado. Para nosso cenário selecionaremos: **_"Brazilian"_** e clique em **_"Continue"_**
   ![image](https://user-images.githubusercontent.com/105310922/207698093-b4d4e330-2c91-43b7-8823-9a56c3768b70.png)
   
-  5. Escolha o _**Hostname**_ de sua máquina (Nome de sua máquina na rede) 
+  5. Escolha o _**Hostname**_ de sua máquina (Nome de sua máquina na rede) e clique em **_"Continue"_**
   ![image](https://user-images.githubusercontent.com/105310922/207699120-fbdd7c50-3a15-4a25-b2af-0e81161dca18.png)
   
   6. Nesta tela não será necessário a atribuição de nenhum servidor dns prévio, sendo assim clique em **_"Continue"_**   
@@ -135,38 +135,37 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
   8. Escolha o nome do primeiro usuário padrão de sua máquina e clique em **_"Continue"_**
   ![image](https://user-images.githubusercontent.com/105310922/207702157-d2313d5b-6217-42d4-bf61-bd3d636902fc.png)
   
-  9. Tela 9  
+  9. Defina uma senha, confirme-a e clique em **_"Continue"_** 
   ![image](https://user-images.githubusercontent.com/105310922/207702500-042df26c-9479-4e7c-8df0-67ee70b0b0dc.png)
   
-  10. Tela 10  
+  10. Selecione a opção **_Guided - use entire disk_** e clique em **_"Continue"_**
   ![image](https://user-images.githubusercontent.com/105310922/207702790-433fe1fb-2a43-4a29-9545-528e492ce3b3.png)
   
-  11. Tela 11  
+  11. Selecione o disco em que será instalado o Sistema Operacional e clique em **_"Continue"_**
   ![image](https://user-images.githubusercontent.com/105310922/207703251-c05a1cab-f503-4461-b13f-89f4eb24c854.png)
   
-  12. Tela 12    
+  12. Selecione a opção **_All files in one partition (recommended for news user)_** e clique em **_"Continue"_**
   ![image](https://user-images.githubusercontent.com/105310922/207703362-2a242e7c-d04d-413d-b98c-5e057d081b56.png)
   
-  13. Tela 13    
+  13. Clique em **_Finish partitioning and write changes to disk_** e clique em **_"Continue"_**  
   ![image](https://user-images.githubusercontent.com/105310922/207703546-b2d33039-79ba-4bff-b571-59a13c52f0a7.png)
   
-  14. Tela 14    
+  14. Altere para a opção **_Yes_** e clique em **_"Continue"_**  
   ![image](https://user-images.githubusercontent.com/105310922/207703863-66cab011-e481-44f5-a96c-cd3158cbbdb4.png)
   
   15. Aguarde o sistema realizar as configurações...   
   ![image](https://user-images.githubusercontent.com/105310922/207704033-3fd226ec-f13b-42d4-a1be-40256d7249c0.png)
   
-  16. Tela 16  
+  16. Mantenha as conquisgurações de ambientes gráficos padrões e clique em **_"Continue"_**  
   ![image](https://user-images.githubusercontent.com/105310922/207704339-915ba0a6-cebc-4e0b-acdc-def76eafbabd.png)
   
-  17. Tela 17   
+  17. Selecione a opção **_Yes_** para instalar o Grub Bootloader e clique em **_"Continue"_**  
   ![image](https://user-images.githubusercontent.com/105310922/207704489-c9f40389-86dc-4a39-844d-7e199f37776e.png)
   
-  18. Tela 18  
+  18. Selecione o disco em que será instalado o Sistema Operacional e clique em **_"Continue"_**
   ![image](https://user-images.githubusercontent.com/105310922/207704912-e09b9f3a-b86f-4ab6-af3e-1d8be6618833.png)
-
   
-  20. Pronto, o seu sistema Kali está pronto para uso    
+  19. Pronto, o seu sistema Kali está pronto para uso    
   ![image](https://user-images.githubusercontent.com/105310922/207704990-bbac685c-ebda-4e0a-b8d0-1cf3a221c00b.png)
 
 
