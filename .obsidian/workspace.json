@@ -189,7 +189,7 @@
       }
     ]
   },
-  "active": "e2f1fd5e6399aa0f",
+  "active": "bccbe9b249b125ce",
   "lastOpenFiles": [
     "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Active Directory/01 Instalação Windows Server 2016.md",
     "README.md",
@@ -200,6 +200,6 @@
     "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Máquinas Clientes/Windows7.md",
     "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Máquinas Clientes/Configuração_Domínio.md",
     "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Firewall/pfSense.md",
-    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Máquian Red Team/kaliLinux.md"
+    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Máquina Red Team/kaliLinux.md"
   ]
 }
