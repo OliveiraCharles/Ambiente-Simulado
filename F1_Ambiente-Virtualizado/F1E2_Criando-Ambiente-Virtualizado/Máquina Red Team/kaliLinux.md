@@ -2,7 +2,7 @@
 
 ## Sumário
 
-- [Preparação do Ambiente](#Preparação-do-ambiente)
+- [Preparação do Ambiente](#preparação-do-ambiente)
   - [Instalação](#instalação)
   - [Requisitos](#requisitos)
   - [Baixando a ISO](#baixando-a-iso)
@@ -17,7 +17,7 @@
 ## Preparação do ambiente
 
 ### Instalação
-Neste documento será apresentado o passo a passo para a configuração do sistema operacional na máquina de usuário, que para fins do projeto foi utilizado o Sistema Operacional Windows 7 Ultimate - 64 BifARRRUMAAAAAAAAAAAAAAAAAAAAAAAARRRRRRRRRRRRRRRRRRRR
+Neste documento será apresentado o passo a passo para a configuração do sistema operacional na de _Red Team_, que para fins do projeto foi utilizado o Sistema Kali Linux 2022.4
 
 ### Requisitos
 
