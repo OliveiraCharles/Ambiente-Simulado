@@ -41,10 +41,10 @@ Construir um ambiente virtualizado para simulação de testes de invasão e moni
 
 # Workshops
 
-- [**ELK Stack**](./F1_Ambiente-Virtualizado/F1E1_Workshops/elkStack/ELK_Stack)
-- [**Kali Linux**](./F1_Ambiente-Virtualizado/F1E1_Workshops/KaliLinux/Workshop.md)
-- [**Linux**](./F1_Ambiente-Virtualizado\F1E1_Workshops\Linux\Workshop.md)
-- [**pfSense**\*](./F1_Ambiente-Virtualizado/F1E1_Workshops/pfSense/Workshop.md)
+- [**ELK Stack**](./F1_Ambiente-Virtualizado/F1E1_Workshops/ELK_Stack)
+- [**Kali Linux**](./F1_Ambiente-Virtualizado/F1E1_Workshops/KaliLinux)
+- [**Linux**](./F1_Ambiente-Virtualizado/F1E1_Workshops/Linux)
+- [**pfSense**\*](./F1_Ambiente-Virtualizado/F1E1_Workshops/pfSense/)
 - [**Windows Server**](./F1_Ambiente-Virtualizado/F1E1_Workshops/WindowsServer/Workshop.md)
 
 # Tutoriais
