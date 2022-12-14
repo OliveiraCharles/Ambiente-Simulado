@@ -1,3 +1,15 @@
+# Sumário
+
+- [Preparação do Ambiente](#Preparação-do-ambiente)
+  - [Baixando a ISO](#baixando-a-iso)
+  - [Configurando o Hyper-V](#configurando-o-hyper-v)
+- [Criação da VM](#criação-da-vm)
+  - [Requisitos Mínimos](#requisitos-mínimos)
+  - [Criando uma VM](#criando-uma-vm-máquina-virtual)
+  - [Instalando a .ISO](#instalando-o-sistema-operacional-iso)
+  - [Configurando o Sistema](#configurando-o-sistema)
+
+
 # Instalação - Windows 10 (Blue Team Machine)
 
 #### Neste documento será apresentado o passo a passo para a configuração do Sistema Operacional na máquina do Blue Team, que para fins do projeto foi utilizado o Sistema Operacional Windows 10 Professional - 64 Bits
