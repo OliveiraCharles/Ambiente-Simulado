@@ -1,0 +1,517 @@
+port scan do 192.168.1.204 para 192.168.1.200
+
+{
+  "_index": "galileo",
+  "_type": "_doc",
+  "_id": "gLH87YQBt62cqdnwfE6p",
+  "_version": 1,
+  "_score": 1,
+  "_source": {
+    "host": "192.168.1.200",
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "severity": 0,
+    "@version": "1",
+    "facility": 0,
+    "severity_label": "Emergency",
+    "facility_label": "syslogd",
+    "message": "<38>Jan  1 00:48:20 sshd[1437]: Did not receive identification string from 192.168.1.204\n",
+    "priority": 0,
+    "@timestamp": "2022-12-07T19:07:37.913Z"
+  },
+  "fields": {
+    "severity": [
+      0
+    ],
+    "tags.keyword": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@version.keyword": [
+      "1"
+    ],
+    "severity_label.keyword": [
+      "Emergency"
+    ],
+    "message": [
+      "<38>Jan  1 00:48:20 sshd[1437]: Did not receive identification string from 192.168.1.204\n"
+    ],
+    "priority": [
+      0
+    ],
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@timestamp": [
+      "2022-12-07T19:07:37.913Z"
+    ],
+    "message.keyword": [
+      "<38>Jan  1 00:48:20 sshd[1437]: Did not receive identification string from 192.168.1.204\n"
+    ],
+    "host": [
+      "192.168.1.200"
+    ],
+    "@version": [
+      "1"
+    ],
+    "host.keyword": [
+      "192.168.1.200"
+    ],
+    "facility": [
+      0
+    ],
+    "facility_label.keyword": [
+      "syslogd"
+    ],
+    "severity_label": [
+      "Emergency"
+    ],
+    "facility_label": [
+      "syslogd"
+    ]
+  }
+}
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Tentativas de Brute Force:
+
+1. erro de password
+{
+  "_index": "galileo",
+  "_type": "_doc",
+  "_id": "1bFJ7oQBt62cqdnw906B",
+  "_version": 1,
+  "_score": 1,
+  "_source": {
+    "host": "192.168.1.200",
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "severity": 0,
+    "@version": "1",
+    "facility": 0,
+    "severity_label": "Emergency",
+    "facility_label": "syslogd",
+    "message": "<38>Jan  1 02:12:58 sshd[1503]: Failed password for root from 192.168.1.204 port 37000 ssh2\n",
+    "priority": 0,
+    "@timestamp": "2022-12-07T20:32:15.633Z"
+  },
+  "fields": {
+    "severity": [
+      0
+    ],
+    "tags.keyword": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@version.keyword": [
+      "1"
+    ],
+    "severity_label.keyword": [
+      "Emergency"
+    ],
+    "message": [
+      "<38>Jan  1 02:12:58 sshd[1503]: Failed password for root from 192.168.1.204 port 37000 ssh2\n"
+    ],
+    "priority": [
+      0
+    ],
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@timestamp": [
+      "2022-12-07T20:32:15.633Z"
+    ],
+    "message.keyword": [
+      "<38>Jan  1 02:12:58 sshd[1503]: Failed password for root from 192.168.1.204 port 37000 ssh2\n"
+    ],
+    "host": [
+      "192.168.1.200"
+    ],
+    "@version": [
+      "1"
+    ],
+    "host.keyword": [
+      "192.168.1.200"
+    ],
+    "facility": [
+      0
+    ],
+    "facility_label.keyword": [
+      "syslogd"
+    ],
+    "severity_label": [
+      "Emergency"
+    ],
+    "facility_label": [
+      "syslogd"
+    ]
+  }
+}
+
+--------------------------------------------------------------------------------------------
+2. erro de password para root
+{
+  "_index": "galileo",
+  "_type": "_doc",
+  "_id": "1rFJ7oQBt62cqdnw-k5k",
+  "_version": 1,
+  "_score": 1,
+  "_source": {
+    "host": "192.168.1.200",
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "severity": 0,
+    "@version": "1",
+    "facility": 0,
+    "severity_label": "Emergency",
+    "facility_label": "syslogd",
+    "message": "<38>Jan  1 02:12:59 sshd[1503]: Failed password for root from 192.168.1.204 port 37000 ssh2\n",
+    "priority": 0,
+    "@timestamp": "2022-12-07T20:32:16.379Z"
+  },
+  "fields": {
+    "severity": [
+      0
+    ],
+    "tags.keyword": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@version.keyword": [
+      "1"
+    ],
+    "severity_label.keyword": [
+      "Emergency"
+    ],
+    "message": [
+      "<38>Jan  1 02:12:59 sshd[1503]: Failed password for root from 192.168.1.204 port 37000 ssh2\n"
+    ],
+    "priority": [
+      0
+    ],
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@timestamp": [
+      "2022-12-07T20:32:16.379Z"
+    ],
+    "message.keyword": [
+      "<38>Jan  1 02:12:59 sshd[1503]: Failed password for root from 192.168.1.204 port 37000 ssh2\n"
+    ],
+    "host": [
+      "192.168.1.200"
+    ],
+    "@version": [
+      "1"
+    ],
+    "host.keyword": [
+      "192.168.1.200"
+    ],
+    "facility": [
+      0
+    ],
+    "facility_label.keyword": [
+      "syslogd"
+    ],
+    "severity_label": [
+      "Emergency"
+    ],
+    "facility_label": [
+      "syslogd"
+    ]
+  }
+}
+-----------------------------------------------------------------------------------------------
+3. Erro de password connection closed
+{
+  "_index": "galileo",
+  "_type": "_doc",
+  "_id": "17FJ7oQBt62cqdnw-k5p",
+  "_version": 1,
+  "_score": 1,
+  "_source": {
+    "host": "192.168.1.200",
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "severity": 0,
+    "@version": "1",
+    "facility": 0,
+    "severity_label": "Emergency",
+    "facility_label": "syslogd",
+    "message": "<38>Jan  1 02:12:59 sshd[1503]: Connection closed by 192.168.1.204 [preauth]\n",
+    "priority": 0,
+    "@timestamp": "2022-12-07T20:32:16.383Z"
+  },
+  "fields": {
+    "severity": [
+      0
+    ],
+    "tags.keyword": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@version.keyword": [
+      "1"
+    ],
+    "severity_label.keyword": [
+      "Emergency"
+    ],
+    "message": [
+      "<38>Jan  1 02:12:59 sshd[1503]: Connection closed by 192.168.1.204 [preauth]\n"
+    ],
+    "priority": [
+      0
+    ],
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@timestamp": [
+      "2022-12-07T20:32:16.383Z"
+    ],
+    "message.keyword": [
+      "<38>Jan  1 02:12:59 sshd[1503]: Connection closed by 192.168.1.204 [preauth]\n"
+    ],
+    "host": [
+      "192.168.1.200"
+    ],
+    "@version": [
+      "1"
+    ],
+    "host.keyword": [
+      "192.168.1.200"
+    ],
+    "facility": [
+      0
+    ],
+    "facility_label.keyword": [
+      "syslogd"
+    ],
+    "severity_label": [
+      "Emergency"
+    ],
+    "facility_label": [
+      "syslogd"
+    ]
+  }
+}
+-----------------------------------------------------------------------------------------
+4. Password failed
+{
+  "_index": "galileo",
+  "_type": "_doc",
+  "_id": "2LFK7oQBt62cqdnwFU6N",
+  "_version": 1,
+  "_score": 1,
+  "_source": {
+    "host": "192.168.1.200",
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "severity": 0,
+    "@version": "1",
+    "facility": 0,
+    "severity_label": "Emergency",
+    "facility_label": "syslogd",
+    "message": "<38>Jan  1 02:13:06 sshd[1505]: Failed password for root from 192.168.1.204 port 37001 ssh2\n",
+    "priority": 0,
+    "@timestamp": "2022-12-07T20:32:23.329Z"
+  },
+  "fields": {
+    "severity": [
+      0
+    ],
+    "tags.keyword": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@version.keyword": [
+      "1"
+    ],
+    "severity_label.keyword": [
+      "Emergency"
+    ],
+    "message": [
+      "<38>Jan  1 02:13:06 sshd[1505]: Failed password for root from 192.168.1.204 port 37001 ssh2\n"
+    ],
+    "priority": [
+      0
+    ],
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@timestamp": [
+      "2022-12-07T20:32:23.329Z"
+    ],
+    "message.keyword": [
+      "<38>Jan  1 02:13:06 sshd[1505]: Failed password for root from 192.168.1.204 port 37001 ssh2\n"
+    ],
+    "host": [
+      "192.168.1.200"
+    ],
+    "@version": [
+      "1"
+    ],
+    "host.keyword": [
+      "192.168.1.200"
+    ],
+    "facility": [
+      0
+    ],
+    "facility_label.keyword": [
+      "syslogd"
+    ],
+    "severity_label": [
+      "Emergency"
+    ],
+    "facility_label": [
+      "syslogd"
+    ]
+  }
+}
+------------------------------------------------------------------------------------------
+5. Senha aceita 
+{
+  "_index": "galileo",
+  "_type": "_doc",
+  "_id": "27FK7oQBt62cqdnwHk6-",
+  "_version": 1,
+  "_score": 1,
+  "_source": {
+    "host": "192.168.1.200",
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "severity": 0,
+    "@version": "1",
+    "facility": 0,
+    "severity_label": "Emergency",
+    "facility_label": "syslogd",
+    "message": "<38>Jan  1 02:13:08 sshd[1505]: Accepted password for root from 192.168.1.204 port 37001 ssh2\n",
+    "priority": 0,
+    "@timestamp": "2022-12-07T20:32:25.672Z"
+  },
+  "fields": {
+    "severity": [
+      0
+    ],
+    "tags.keyword": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@version.keyword": [
+      "1"
+    ],
+    "severity_label.keyword": [
+      "Emergency"
+    ],
+    "message": [
+      "<38>Jan  1 02:13:08 sshd[1505]: Accepted password for root from 192.168.1.204 port 37001 ssh2\n"
+    ],
+    "priority": [
+      0
+    ],
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@timestamp": [
+      "2022-12-07T20:32:25.672Z"
+    ],
+    "message.keyword": [
+      "<38>Jan  1 02:13:08 sshd[1505]: Accepted password for root from 192.168.1.204 port 37001 ssh2\n"
+    ],
+    "host": [
+      "192.168.1.200"
+    ],
+    "@version": [
+      "1"
+    ],
+    "host.keyword": [
+      "192.168.1.200"
+    ],
+    "facility": [
+      0
+    ],
+    "facility_label.keyword": [
+      "syslogd"
+    ],
+    "severity_label": [
+      "Emergency"
+    ],
+    "facility_label": [
+      "syslogd"
+    ]
+  }
+}
+-------------------------------------------------------------------------------------
+6. Fim de conexão
+{
+  "_index": "galileo",
+  "_type": "_doc",
+  "_id": "3bFK7oQBt62cqdnwMU6B",
+  "_version": 1,
+  "_score": 1,
+  "_source": {
+    "host": "192.168.1.200",
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "severity": 0,
+    "@version": "1",
+    "facility": 0,
+    "severity_label": "Emergency",
+    "facility_label": "syslogd",
+    "message": "<38>Jan  1 02:13:13 sshd[1505]: Received disconnect from 192.168.1.204: 11: disconnected by user\n",
+    "priority": 0,
+    "@timestamp": "2022-12-07T20:32:30.489Z"
+  },
+  "fields": {
+    "severity": [
+      0
+    ],
+    "tags.keyword": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@version.keyword": [
+      "1"
+    ],
+    "severity_label.keyword": [
+      "Emergency"
+    ],
+    "message": [
+      "<38>Jan  1 02:13:13 sshd[1505]: Received disconnect from 192.168.1.204: 11: disconnected by user\n"
+    ],
+    "priority": [
+      0
+    ],
+    "tags": [
+      "_grokparsefailure_sysloginput"
+    ],
+    "@timestamp": [
+      "2022-12-07T20:32:30.489Z"
+    ],
+    "message.keyword": [
+      "<38>Jan  1 02:13:13 sshd[1505]: Received disconnect from 192.168.1.204: 11: disconnected by user\n"
+    ],
+    "host": [
+      "192.168.1.200"
+    ],
+    "@version": [
+      "1"
+    ],
+    "host.keyword": [
+      "192.168.1.200"
+    ],
+    "facility": [
+      0
+    ],
+    "facility_label.keyword": [
+      "syslogd"
+    ],
+    "severity_label": [
+      "Emergency"
+    ],
+    "facility_label": [
+      "syslogd"
+    ]
+  }
+}
