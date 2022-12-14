@@ -9,7 +9,7 @@
   - [Configurando o Hyper-V](#configurando-o-hyper-v)
 - [Criação da VM](#criação-da-vm)
   - [Criação do Ambiente virtual](#criação-do-ambiente-virtual)
-  - [Instalando a .ISO](#instalando-a-.ISO)
+  - [Instalando a .ISO](#instalando-a-.iso)
   - [Configurando o Sistema](#configurando-o-sistema)
 
 
