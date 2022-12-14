@@ -6,39 +6,51 @@
   - [c. Instalação do Kibana](#c-instalação-do-kibana)
   - [d. Instalação do LogStash](#d-instalação-do-logstash)
 - [Iniciando um Script](#e-para-iniciar-um-script)
- 
+
+## Requisitos
+
+> Sistema Operacional: Ubuntu Linux
+
+|   Máquina Virtual | Mínimo  | Recomendado |
+| ----------------: | :-----: | :---------: |
+|    Processadores: |    2    |      4      |
+|       Arquitetura | 64 bits |   64 bits   |
+|      Memória RAM: |  1 GB   |    4 GB     |
+|    Armazenamento: |  5 GB   |    16 GB    |
+| Memória de vídeo: |  64 MB  |    64 MB    |
+
 # 1. Instalando o ELK
 
-[[github.com/StehMaria/]](https://github.com/StehMaria/Instala-o-ELK-Stack/blob/main/README.md): Como Instalar Elasticsearch, Logstash e Kibana no Ubuntu
+Como Instalar Elasticsearch, Logstash e Kibana no Ubuntu: [github.com/StehMaria](https://github.com/StehMaria/Instala-o-ELK-Stack/blob/main/README.md)
 
 O **ELK Stack** é uma ferramenta gratuita da **Elastic** com softwares para pesquisar, analisar e visualizar logs ajudando no monitoramento de equipamentos.
 
-- Elasticsearch – Busca e analise, com ferramentas e filtros.
+- **Elasticsearch** – Busca e analise, com ferramentas e filtros.
 
-- Logstash – Processador de dados com pipelines que recebe transforma e envia dados simultâneos.
+- **Logstash** – Processador de dados com pipelines que recebe transforma e envia dados simultâneos.
 
-- Kibana – Visualizar dados do Elasticsearch através de gráficos e dashboards.
+- **Kibana** – Visualizar dados do Elasticsearch através de gráficos e dashboards.
 
-- Beats – Agentes que envia dados coletados para o Logstash ou Elasticsearch.
+- **Beats** – Agentes que envia dados coletados para o Logstash ou Elasticsearch.
 
 ## a. Configuração da máquina virtual
 
 Para utilizar o ELK Stack, vamos configurar uma **máquina virtual** com as seguintes configurações:
 
-- ISO: Ubuntu Server (v. 22.04) - disponível em: [[ubuntu.com/download/]](https://ubuntu.com/download/server)
+- ISO: Ubuntu Server (v. 22.04) - disponível em: [ubuntu.com](https://ubuntu.com/download/server)
 - RAM: 6GB
 - 2 CPU
 - Sistema: 64bits
 - HD: VHD
 - Video 64MB
 
-![](./img/VM_conf01.png)
-![](./img/VM_conf02.png)
-![](./img/VM_conf03.png)
-![](./img/VM_conf04.png)
-![](./img/VM_conf05.png)
-![](./img/VM_conf06.png)
-![](./img/VM_conf07.png)
+![](./../../../img/elkStack/VM_conf01.png)
+![](./../../../img/elkStack/VM_conf02.png)
+![](./../../../img/elkStack/VM_conf03.png)
+![](./../../../img/elkStack/VM_conf04.png)
+![](./../../../img/elkStack/VM_conf05.png)
+![](./../../../img/elkStack/VM_conf06.png)
+![](./../../../img/elkStack/VM_conf07.png)
 
 caso seja necessário utilize o tutorial a seguir:  
 [[tecnoblog.net/]](https://tecnoblog.net/responde/como-criar-uma-maquina-virtual-virtualbox/): Como criar uma máquina virtual com o VirtualBox [20 passos]
@@ -60,8 +72,6 @@ caso seja necessário utilize o tutorial a seguir:
 * Quando solicitado digite username e password configurado
 
 ## b. Instalação do Elasticsearch
-
-[<h6>[voltar]</h6>](#sumário)
 
 [[www.digitalocean.com/]](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-18-04-pt): Como Instalar e Configurar o Elasticsearch no Ubuntu 18.04
 Para fazer a instalação do Elasticsearch no Ubuntu Server:
@@ -106,9 +116,10 @@ echo "deb https://artifacts.elastic.co/packages/7.x/apt stable main" | sudo tee 
 ```BASH
 sudo nano /etc/apt/sources.list.d/elastic-7.x.list
 ```
-[[vivaolinux.com.br/artigo/]](https://www.vivaolinux.com.br/artigo/Introducao-ao-Linux-O-editor-de-texto-Nano): Introdução ao Linux: O editor de texto Nano  
 
-![nano sourceList](./img/elk/ELK_NanoSourcesList.png)
+[[vivaolinux.com.br/artigo/]](https://www.vivaolinux.com.br/artigo/Introducao-ao-Linux-O-editor-de-texto-Nano): Introdução ao Linux: O editor de texto Nano
+
+![nano sourceList](./../../../img/elkStack/ELK_NanoSourcesList.png)
 É recomendado que se comente o item, adicionando # no inicio da linha, e não apaga-lo caso seja necessário reverter é só descomentar, ou seja, remover a # do inicio da linha.
 
 4. Atualize a lista de pacotes do APT:
@@ -133,13 +144,14 @@ sudo apt upgrade
 
 5. Instale o Elasticsearch:
 
-<font color="yellow">Caso tenha outra versão do elasticsearch já instalada basta executar o comando a seguir para remover: </font>  
+<font color="yellow">Caso tenha outra versão do elasticsearch já instalada basta executar o comando a seguir para remover: </font>
 
 ```BASH
 sudo apt remove elasticsearch
 ```
 
-Para instalar execute o comando:  
+Para instalar execute o comando:
+
 ```BASH
 sudo apt install elasticsearch
 ```
@@ -150,11 +162,10 @@ sudo apt install elasticsearch
 sudo nano /etc/elasticsearch/elasticsearch.yml
 ```
 
-  node.name: node-1
-  network.host: 0.0.0.0
-  discovery.seed_hosts: ["127.0.0.1"] 
-  cluster.initial_master_nodes: ["node-1"]
-
+node.name: node-1
+network.host: 0.0.0.0
+discovery.seed_hosts: ["127.0.0.1"]
+cluster.initial_master_nodes: ["node-1"]
 
 7. Carregue o Elaticsearch no servidor:
 
