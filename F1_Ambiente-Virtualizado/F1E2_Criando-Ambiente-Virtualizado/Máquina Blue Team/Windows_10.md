@@ -117,30 +117,46 @@ Aguarde as configurações do Sistema Operacional serem carregadas...
 ![image](https://user-images.githubusercontent.com/105310922/207739770-e6e133b5-793a-432b-9d98-9e62bae1a260.png)
 ![image](https://user-images.githubusercontent.com/105310922/207739832-3c6bf9a4-5e47-4b5c-a6ba-4f5fb2d7c9ef.png)
 
+![image](https://user-images.githubusercontent.com/105310922/207740173-cf133deb-1672-48e5-a2d1-2e3ee9fed9d3.png)
+![image](https://user-images.githubusercontent.com/105310922/207740270-71d7ba8d-2e07-4493-8743-1107c93f59ed.png)
+![image](https://user-images.githubusercontent.com/105310922/207740332-41f39ebc-f1e9-440a-92fc-5ae15dc0a5af.png)
+![image](https://user-images.githubusercontent.com/105310922/207740394-658bd7ea-1c7e-4af0-8a8d-6b7d1c3570d9.png)
+
+![image](https://user-images.githubusercontent.com/105310922/207740476-cdecdb16-bdeb-40f5-aae8-16eb48e0d36a.png)
+![image](https://user-images.githubusercontent.com/105310922/207740551-d3974867-dadb-46f6-96ec-3b5fe49ae6ea.png)
+![image](https://user-images.githubusercontent.com/105310922/207740610-92c10149-092c-4fc0-afb1-4a010d3809c0.png)
+![image](https://user-images.githubusercontent.com/105310922/207740677-4f3b74ea-e01b-4979-80b3-2cac1cceea27.png)
+![image](https://user-images.githubusercontent.com/105310922/207740728-2f15b80f-858c-4f4e-b6f8-6cd58d1b4c43.png)
+![image](https://user-images.githubusercontent.com/105310922/207740786-03156782-8575-491f-acd1-74a17adce2ed.png)
+
+
+
 
 Após o sistema carregar todos os arquivos necessários o mesmo deverá será reinicilizado  
-![image](https://user-images.githubusercontent.com/105310922/207503991-fb63cfdc-b8f2-494f-9085-98faad13ef80.png)
+
 
 Em seguida será apresentada a primeira tela de configuração do sistema onde deverá ser informado o nome da máquina. Para nosso projeto consideramos o nome da máquina como **_User_**  
-![image](https://user-images.githubusercontent.com/105310922/207504211-986ed36b-1e5c-457f-81f4-1616aa14cb1a.png)
+
 
 Na tela seguinte, o usuário deverá informar a senha bem como a confirmação de senha, em seguida de uma dica de lembrete para a mesma. Após o preenchimento, clicar em **_Next_**
-![image](https://user-images.githubusercontent.com/105310922/207504283-2fd9fb48-8838-4fbf-9827-807117c14477.png)
+
 
 Na tela de ativação da tela de produto, selecione a opção **_Skip_**
-![image](https://user-images.githubusercontent.com/105310922/207504436-d30e157f-3f0b-42e3-acac-93246622208d.png)
+
 
 Clique em "Use recommended settings"  
-![image](https://user-images.githubusercontent.com/105310922/207504484-74b77ad2-acfc-4f4c-b971-147344a41cb2.png)
+
 
 Selecione a **_Time Zone_** desejada e clique em **_Next_**
-![image](https://user-images.githubusercontent.com/105310922/207504547-4e80e448-b899-4d24-9e73-bfb32cd7c0cd.png)
+
 
 Nesta tela deverá selecionado o tipo de conexão de rede. Para este projeto como se trata de um ambiente simulado, foi configurado o tipo de rede "Residencial" através da opção **_Home Network_**
-![image](https://user-images.githubusercontent.com/105310922/207504614-d61e1b87-7d92-4776-8fec-115271388e94.png)
 
 Após a realização de todas as configurações, o Sistema Operacional Windows 7 será inicializado e estará pronta para o uso.
-![image](https://user-images.githubusercontent.com/105310922/207504662-37c37bd3-014b-4938-83e8-db597c7970bc.png)
+
+![image](https://user-images.githubusercontent.com/105310922/207740855-c5233427-1fdf-48fe-ba5c-b3e4ef31fad5.png)
+
+
 
 
 # [![Home][homeimage]][homelink] [![Top][topimage]](#)
