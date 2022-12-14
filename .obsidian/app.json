@@ -2,5 +2,11 @@
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "./img/WinSrv"
+  "attachmentFolderPath": "./img/WinSrv",
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "pt-BR"
+  ],
+  "readableLineLength": false
 }

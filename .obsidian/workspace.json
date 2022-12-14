@@ -8,56 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6f585022c60b4a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/02 ADDS - Instalação e configuração básica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e2f1fd5e6399aa0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e324ff74c0a6513a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7d4f7442377a4912",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/metasploitable2/metasploitable2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b75718e0eea766a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/metasploitable2/metasploitable2.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,11 +136,50 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d6f585022c60b4a2",
+  "floating": {
+    "id": "d8697cd7e6dedabb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "30b2fde9f55672f4",
+        "type": "window",
+        "children": [
+          {
+            "id": "7636895a2346a295",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "878b57e30b645b77",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/02 ADDS - Instalação e configuração básica.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1706,
+        "y": 239,
+        "width": 1130,
+        "height": 794,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "878b57e30b645b77",
   "lastOpenFiles": [
     "README.md",
     "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/02 ADDS - Instalação e configuração básica.md",
-    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/01 Intalação Windows Server 2016.md",
-    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/metasploitable2/metasploitable2.md"
+    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/img/WinSrv/Pasted image 20221214143543.png",
+    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/metasploitable2/metasploitable2.md",
+    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/img/WinSrv/Pasted image 20221214143003.png",
+    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/01 Intalação Windows Server 2016.md"
   ]
 }
