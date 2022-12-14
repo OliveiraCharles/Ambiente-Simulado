@@ -105,7 +105,18 @@ Selecione o Disco a ser instalado o Sistema operacional e clique em **_"Next"_**
 ![image](https://user-images.githubusercontent.com/105310922/207739125-2015760c-21c8-4d58-a11e-36b7e0ae8e05.png)
 
 Aguarde as configurações do Sistema Operacional serem carregadas...  
-![image](https://user-images.githubusercontent.com/105310922/207739171-ac43592e-b1c2-46ae-a31a-5e96f6c88b7b.png)
+![image](https://user-images.githubusercontent.com/105310922/207739326-02bc1ff3-e502-4638-98ce-46e4d9798691.png)
+
+
+![image](https://user-images.githubusercontent.com/105310922/207739442-36be25b4-478b-473a-bfc5-7d2a2b7e8e56.png)
+![image](https://user-images.githubusercontent.com/105310922/207739520-ac94a9a7-f7c5-411d-86b0-e7804d72f120.png)
+![image](https://user-images.githubusercontent.com/105310922/207739564-b732526c-18cf-4c75-899c-2bd806d9c1f5.png)
+![image](https://user-images.githubusercontent.com/105310922/207739617-90ab37d7-a917-4ad3-86ab-d74187cddbfb.png)
+![image](https://user-images.githubusercontent.com/105310922/207739671-37021eb4-49ac-4890-a167-85e03d1449fb.png)
+![image](https://user-images.githubusercontent.com/105310922/207739702-b7298f9f-6331-4259-be8c-41e077d31912.png)
+![image](https://user-images.githubusercontent.com/105310922/207739770-e6e133b5-793a-432b-9d98-9e62bae1a260.png)
+![image](https://user-images.githubusercontent.com/105310922/207739832-3c6bf9a4-5e47-4b5c-a6ba-4f5fb2d7c9ef.png)
+
 
 Após o sistema carregar todos os arquivos necessários o mesmo deverá será reinicilizado  
 ![image](https://user-images.githubusercontent.com/105310922/207503991-fb63cfdc-b8f2-494f-9085-98faad13ef80.png)
