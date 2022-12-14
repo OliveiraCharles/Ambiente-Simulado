@@ -129,7 +129,7 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
   6. Tela 6  
   ![image](https://user-images.githubusercontent.com/105310922/207699678-fb1880b8-3426-47b7-bceb-7085b1164d98.png)
   
-  7. Tela 7 
+  7. Tela 7  
   ![image](https://user-images.githubusercontent.com/105310922/207702023-c3c3b069-152c-4516-98c8-d29d98f88415.png)
   
   8. Tela 8  
@@ -170,7 +170,7 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
   ![image](https://user-images.githubusercontent.com/105310922/207704990-bbac685c-ebda-4e0a-b8d0-1cf3a221c00b.png)
 
 
-### Configurando-o-sistema
+### Configurando o Sistema
 
   1. **Update:** Assim que o sistema inicializar, realize os updates de pacotes do repositório com o comando **sudo apt update** 
   1. **Upgrade:** Após realizar o update dos pacotes, certifique-se de realizar o upgrade pendente das aplicacções para sempre possuir as últimas versões com o comando **sudo apt upgrade** 
