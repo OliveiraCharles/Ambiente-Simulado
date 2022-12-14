@@ -114,25 +114,25 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
   1. Assim que a máquina for inicializada pela primeira vez, após o boot do Kali será necessário escolher o Modo de instalação, clique em **_"Graphical Install"_**  
   ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
   
-  2. Em seguida, selecione o idioma desejada. Para este caso selecionaremos: **_"Enligsh"_**  
+  2. Em seguida, selecione o idioma desejado. Para este caso selecionaremos: **_"English"_**  
   ![image](https://user-images.githubusercontent.com/105310922/207696452-ebf39793-aca8-4167-b8a5-c4f5e105b0df.png)
   
   3. Selecione a localização em que se encontra. Para este manteremos como: **_"United States"_** 
   ![image](https://user-images.githubusercontent.com/105310922/207697662-90f651ea-01c4-4c2a-be4e-a4cc0098a5b2.png)
   
-  4. Tela 4  
+  4. Agora, selecione qual o tipo de mapeamento de seu teclado. Para nosso cenário selecionaremos: **_"Brazilian"_** 
   ![image](https://user-images.githubusercontent.com/105310922/207698093-b4d4e330-2c91-43b7-8823-9a56c3768b70.png)
   
-  5. Tela 5  
-![image](https://user-images.githubusercontent.com/105310922/207699120-fbdd7c50-3a15-4a25-b2af-0e81161dca18.png)
+  5. Escolha o _**Hostname**_ de sua máquina (Nome de sua máquina na rede) 
+  ![image](https://user-images.githubusercontent.com/105310922/207699120-fbdd7c50-3a15-4a25-b2af-0e81161dca18.png)
   
-  6. Tela 6  
+  6. Nesta tela não será necessário a atribuição de nenhum servidor dns prévio, sendo assim clique em **_"Continue"_**   
   ![image](https://user-images.githubusercontent.com/105310922/207699678-fb1880b8-3426-47b7-bceb-7085b1164d98.png)
   
-  7. Tela 7  
+  7. Preencha o seu nome completo ou o nome que desejar e clique em **_"Continue"_**
   ![image](https://user-images.githubusercontent.com/105310922/207702023-c3c3b069-152c-4516-98c8-d29d98f88415.png)
   
-  8. Tela 8  
+  8. Escolha o nome do primeiro usuário padrão de sua máquina e clique em **_"Continue"_**
   ![image](https://user-images.githubusercontent.com/105310922/207702157-d2313d5b-6217-42d4-bf61-bd3d636902fc.png)
   
   9. Tela 9  
