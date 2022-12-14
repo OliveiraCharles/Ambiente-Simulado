@@ -72,6 +72,12 @@ Em seguida realize a criação de um ambiente virtual no Hyper-V (clique no link
 
 ### Instalando a ISO
 
+
+Após o Boot do Sistema Operacional será apresentada a primeira tela do sistema onde serão solicitadas as configurações de linguagem, local, hora e teclado. Para este projeto foi aplicado as respectivas configurações abaixo:
+
+![image](https://user-images.githubusercontent.com/105310922/207738459-fbf43d01-74e6-4155-a586-7305af14cf69.png)
+
+
 Após o Boot do Sistema Operacional será apresentada a primeira tela do sistema onde serão solicitadas as configurações de linguagem, local, hora e teclado. Para este projeto foi aplicado as respectivas configurações abaixo:
 
 - **_Language to install:_** English  
