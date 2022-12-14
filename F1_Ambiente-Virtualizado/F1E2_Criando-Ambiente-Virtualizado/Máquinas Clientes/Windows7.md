@@ -49,8 +49,13 @@ https://download.microsoft.com/download/0/6/3/06365375-C346-4D65-87C7-EE41F55F73
 - _Windows 7 Professional x86:_  
 https://download.microsoft.com/download/C/0/6/C067D0CD-3785-4727-898E-60DC3120BB14/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_PROFESSIONAL_x86FRE_en-us.iso
 
-2º - Em seguida realize a criação de um ambiente virtual no Hyper-V ou clique no link asseguir para verificar o procedimento
-[Criando Marquina virtual](./../../F1E2_Criando-Ambiente-Virtualizado/Hyper-V/hyper-v.md/#criando-uma-vm-máquina-virtual)
+
+## Criação da VM
+
+### Criação do Ambiente virtual
+
+Em seguida realize a criação de um ambiente virtual no Hyper-V (clique no link asseguir para verificar o procedimento)  
+[Criando Ambiente Virtual | Hyper-V](./../../F1E2_Criando-Ambiente-Virtualizado/Hyper-V/hyper-v.md/#criando-uma-vm-máquina-virtual)
 
 3º - Após o Boot do Sistema Operacional será apresentada a primeira tela do sistema onde serão solicitadas as configurações de linguagem, local, hora e teclado. Para este projeto foi aplicado as respectivas configurações abaixo:
 
