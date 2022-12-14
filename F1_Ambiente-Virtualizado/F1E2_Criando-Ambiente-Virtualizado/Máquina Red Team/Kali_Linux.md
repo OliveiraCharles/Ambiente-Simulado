@@ -9,7 +9,7 @@
   - [Configurando o Hyper-V](#configurando-o-hyper-v)
 - [Criação da VM](#criação-da-vm)
   - [Criação do Ambiente virtual](#criação-do-ambiente-virtual)
-  - [Instalando a .ISO](#instalando-a-.iso)
+  - [Instalando a .ISO](#instalando-a-iso)
   - [Configurando o Sistema](#configurando-o-sistema)
 
 
@@ -109,7 +109,7 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
       
 
 
-### Instalando a .ISO
+### Instalando a ISO
 
   1. Assim que a máquina for inicializada pela primeira vez, após o boot do Kali será necessário escolher o Modo de instalação, clique em **_"Graphical Install"_**  
   ![image](https://user-images.githubusercontent.com/105310922/207695684-daade2cf-18e3-4e66-bc23-6ce339d96109.png)
