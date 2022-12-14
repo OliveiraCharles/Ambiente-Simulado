@@ -1,4 +1,4 @@
-# sumário
+# Sumário
 
 - [Instalando o ELK](#1-instalando-o-elk)
   - [a. Configuração da maquina virtual](#a-configuração-da-máquina-virtual)
