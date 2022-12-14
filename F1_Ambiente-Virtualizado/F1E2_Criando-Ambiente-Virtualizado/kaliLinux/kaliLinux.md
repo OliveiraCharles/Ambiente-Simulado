@@ -1,4 +1,7 @@
-# Sumário
+#  Kali (Red Team Machine)
+
+
+## Sumário
 
 - [Preparação do Ambiente](#Preparação-do-ambiente)
   - [Baixando a ISO](#baixando-a-iso)
@@ -8,6 +11,10 @@
   - [Criando uma VM](#criando-uma-vm-máquina-virtual)
   - [Instalando a .ISO](#instalando-o-sistema-operacional-iso)
   - [Configurando o Sistema](#configurando-o-sistema)
+
+
+## Instalação
+Neste documento será apresentado o passo a passo para a configuração do sistema operacional na máquina de usuário, que para fins do projeto foi utilizado o Sistema Operacional Windows 7 Ultimate - 64 BifARRRUMAAAAAAAAAAAAAAAAAAAAAAAARRRRRRRRRRRRRRRRRRRR
 
 
 # Preparação do ambiente
