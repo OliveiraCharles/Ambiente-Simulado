@@ -47,7 +47,7 @@ Neste repositório estão presentes os paso a passo de toda preparação do **Am
   - [Instalando o **pfSense** (Firewall)\*](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/pfSense/pfSense.md)
   - [Instalando o **Servidor DNS**\*](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/dnsServer/dnsServer.md)
   - [Instalando o **Windows 7** (User Machine)\*](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/windows7/windows7.md)
-  - [Instalando o **Metasploitable 2** (Web Server + DB)\*](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/metasploitable2/metasploitable2.md)
+  - [Instalando o **Metasploitable 2** (Web Server + DB)\*](metasploitable2.md)
   - [Instalando o **Windows Server 2016** (Servidor de autenticação LDAP, Arquivos e E-mail)](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/winServer.md)
   - [Instalando o **Elastic Search v7.x** (SIEM)](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/ELK/ELK.md)
 - F2 Criando **ambiente IoT**

@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "0eefa61bd19fefe5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2ebf645584bde93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6f585022c60b4a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/02 ADDS - Instalação e configuração básica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e324ff74c0a6513a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/01 Intalação Windows Server 2016.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d4f7442377a4912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/metasploitable2/metasploitable2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b75718e0eea766a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/metasploitable2/metasploitable2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7842786c2d36e203",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb3eb202670dbd0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bccbe9b249b125ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51a3e107cdd676ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03704a0c8d1f001f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "09be408ed98d9aa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e0d6ffe35bdf895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "510d7fd34d6ede95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/02 ADDS - Instalação e configuração básica.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9078be653807ebeb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/02 ADDS - Instalação e configuração básica.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "052ea0d1376171a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1f0993aa0ca2f19b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/02 ADDS - Instalação e configuração básica.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d6f585022c60b4a2",
+  "lastOpenFiles": [
+    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/01 Intalação Windows Server 2016.md",
+    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/winServer/02 ADDS - Instalação e configuração básica.md",
+    "README.md",
+    "F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/metasploitable2/metasploitable2.md"
+  ]
+}
