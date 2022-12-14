@@ -16,8 +16,35 @@
 ## Instalação
 Neste documento será apresentado o passo a passo para a configuração do sistema operacional na máquina de usuário, que para fins do projeto foi utilizado o Sistema Operacional Windows 7 Ultimate - 64 BifARRRUMAAAAAAAAAAAAAAAAAAAAAAAARRRRRRRRRRRRRRRRRRRR
 
+## Requisitos
 
-# Preparação do ambiente
+Os requisitos de instalação do Kali Linux variam dependendo do que você gostaria de instalar e de sua configuração.
+
+Para requisitos do sistema:
+
+1. Você pode configurar o Kali Linux como um servidor **Secure Shell (SSH) básico sem ambiente gráfico**, usando apenas:
+
+   - 128 MB de RAM (512 MB recomendado) e 2 GB de espaço em disco.
+
+1. Se você optar por instalar o **desktop Xfce4 padrão** e o **metapacote kali-linux-default**, você deve realmente configurar pelo menos:
+
+   - 2 GB de RAM e 20 GB de espaço em disco.
+
+1. Ao usar aplicativos com uso intensivo de recursos, como o **Burp Suite**, é recomendado pelo menos:
+
+   - 8 GB de RAM (e ainda mais se for um aplicativo da Web grande!) Ou usar programas simultâneos ao mesmo tempo.
+
+|   Máquina Virtual | Mínimo       | Recomendado |
+| ----------------: | :-----:      | :---------: |
+|    Processadores: |    2         |      4      |
+|       Arquitetura | 32 / 64 bits |   64 bits   |
+|      Memória RAM: |  512 MB      |    8 GB     |
+|    Armazenamento: |  5 GB        |    20 GB    |
+| Memória de vídeo: |  -           |    -        |
+
+
+
+## Preparação do ambiente
 
 ## Baixando a ISO
 
@@ -50,34 +77,6 @@ Acesse o site oficial do Sistema Operacional Kali https://www.kali.org
 
 # Criação da VM
 
-## Requisitos
-
-Os requisitos de instalação do Kali Linux variam dependendo do que você gostaria de instalar e de sua configuração.
-
-Para requisitos do sistema:
-
-Você pode configurar o Kali Linux como um servidor Secure Shell (SSH) básico sem desktop, usando apenas:
-
-
-1. Você pode configurar o Kali Linux como um servidor **Secure Shell (SSH) básico sem desktop**, usando apenas:
-
-   - 128 MB de RAM (512 MB recomendado) e 2 GB de espaço em disco.
-
-1. Se você optar por instalar o **desktop Xfce4 padrão** e o **metapacote kali-linux-default**, você deve realmente configurar pelo menos:
-
-   - 2 GB de RAM e 20 GB de espaço em disco.
-
-1. Ao usar aplicativos com uso intensivo de recursos, como o **Burp Suite**, é recomendado pelo menos:
-
-   - 8 GB de RAM (e ainda mais se for um aplicativo da Web grande!) Ou usar programas simultâneos ao mesmo tempo.
-
-|   Máquina Virtual | Mínimo       | Recomendado |
-| ----------------: | :-----:      | :---------: |
-|    Processadores: |    2         |      4      |
-|       Arquitetura | 32 / 64 bits |   64 bits   |
-|      Memória RAM: |  512 MB      |    8 GB     |
-|    Armazenamento: |  5 GB        |    20 GB    |
-| Memória de vídeo: |  -           |    -        |
 
 2º - Em seguida realize a criação de um ambiente virtual no Hyper-V. Utilizando o tutorial do link a seguir:
 [Criando Marquina virtual](./../../F1E2_Criando-Ambiente-Virtualizado/Hyper-V/hyper-v.md/#criando-uma-vm-máquina-virtual)
