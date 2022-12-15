@@ -72,7 +72,6 @@ Neste repositório está apresentada toda documentação técnica do projeto.
     - [Simulação **Ataque - Kali**](./F1_Ambiente-Virtualizado/F1E3_Simulando-Ambiente-Virtualizado/kali.md)
   - **Blue Team**
     - [Resultados - Relatório **Ataques ao FTP**](./F1_Ambiente-Virtualizado/F1E3_Simulando-Ambiente-Virtualizado/Resultados/Ataque-ao-ftp)
-    - [Resultados - Relatório **Brute Force Manual - Placas**](./F1_Ambiente-Virtualizado/F1E3_Simulando-Ambiente-Virtualizado/Resultados/Brute-force-manual-placas)
     - [Resultados - Relatório **Brute Force - SSH**](./F1_Ambiente-Virtualizado/F1E3_Simulando-Ambiente-Virtualizado/Resultados/Brute-force-ssh)
     - [Resultados - Relatório **NMAP no Servidor Web**](./F1_Ambiente-Virtualizado/F1E3_Simulando-Ambiente-Virtualizado/Resultados/Nmap-no-servidor-web)
   
@@ -83,7 +82,10 @@ Neste repositório está apresentada toda documentação técnica do projeto.
   - [Configurando **Intel® Galileo Gen 2 Board**](./F2_Ambiente-IoT/F2E2_Integrando-GalileoGen2/galileoGen2.md)
 
 ### F2E3 Simulando Ambiente Galileo Gen2"
-  - [Simulação](./F2_Ambiente-IoT/F2E3_Simulando-Ambiente-GalileoGen2/simulação.md)  
+  - **Red Team**
+    - [Simulação **Ataque - Manual**](./F2_Ambiente-IoT/F2E3_Simulando-Ambiente-GalileoGen2/simulação.md) 
+  - **Blue Team**
+    - [Resultados - Relatório **Brute Force Manual - Placas**](./F2_Ambiente-IoT/F2E3_Simulando-Ambiente-GalileoGen2/Resultado/Brute-force-manual-placas)
 
 ##### \*Documentação em desenvolvimento, consulte [status do projeto](./docStatus.md) ou a branch **develop** pode ser que já esteja disponível por lá ;).
 
