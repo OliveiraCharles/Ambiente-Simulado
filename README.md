@@ -71,7 +71,7 @@ Neste repositório está apresentada toda documentação técnica do projeto.
   - **Red Team**
     - [Simulação **Ataque - Kali**](./F1_Ambiente-Virtualizado/F1E3_Simulando-Ambiente-Virtualizado/kali.md)
   - **Blue Team**
-    - [Resultados - Relatório **Ataques ao FTP*](./F1_Ambiente-Virtualizado/F1E3_Simulando-Ambiente-Virtualizado/Resultados/Ataque-ao-ftp)
+    - [Resultados - Relatório **Ataques ao FTP**](./F1_Ambiente-Virtualizado/F1E3_Simulando-Ambiente-Virtualizado/Resultados/Ataque-ao-ftp)
     - [Resultados - Relatório **Brute Force Manual - Placas**](./F1_Ambiente-Virtualizado/F1E3_Simulando-Ambiente-Virtualizado/Resultados/Brute-force-manual-placas)
     - [Resultados - Relatório **Brute Force - SSH**](./F1_Ambiente-Virtualizado/F1E3_Simulando-Ambiente-Virtualizado/Resultados/Brute-force-ssh)
     - [Resultados - Relatório **NMAP no Servidor Web**](./F1_Ambiente-Virtualizado/F1E3_Simulando-Ambiente-Virtualizado/Resultados/Nmap-no-servidor-web)
