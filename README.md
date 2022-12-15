@@ -77,7 +77,7 @@ Neste repositório está apresentada toda documentação técnica do projeto.
   - [Configurando **Intel® Galileo Gen 2 Board**](./F2_Ambiente-IoT/F2E2_Integrando-GalileoGen2/galileoGen2.md)
 
 ### F2E3 Simulando Ambiente Galileo Gen2"
-  - RASCUNHO
+  - [Simulação](./F2_Ambiente-IoT/F2E3_Simulando-Ambiente-GalileoGen2/simulação.md)  
 
 ##### \*Documentação em desenvolvimento, consulte [status do projeto](./docStatus.md) ou a branch **develop** pode ser que já esteja disponível por lá ;).
 
