@@ -70,8 +70,8 @@ Neste repositório está apresentada toda documentação técnica do projeto.
 ### F1E3 Simulando Ambiente Virtualizado
   - RASCUNHO
   
-### F2E1 Entendendo "Galileo Gen2"
-  - RASCUNHO
+### F2E1 Entendendo "Galileo Gen2"  
+  - [Entendendo a  **Intel® Galileo Gen 2 Board**] (./F2_Ambiente-IoT/F2E1_Entendendo-GalileoGen2/documentação.md)
 
 ### F2E2 Integrando "Galileo Gen2"
   - [Configurando **Intel® Galileo Gen 2 Board**](./F2_Ambiente-IoT/F2E2_Integrando-GalileoGen2/galileoGen2.md)
