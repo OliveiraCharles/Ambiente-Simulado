@@ -9,28 +9,31 @@
   - [Instalando a .ISO](#instalando-o-sistema-operacional-iso)
   - [Configurando o Sistema](#configurando-o-sistema)
 
-## Preparo do ambiente
+# Preparo do ambiente
 
-### Baixando a ISO
+## Baixando a ISO
 
-### Configurando o Hyper-V
+## Configurando o Hyper-V
 
 1. [Habilite o Hyper-V](../Hyper-V/hyper-v.md)
 
-## Criação da VM
+1.
 
-### Requisitos mínimos
+# Criação da VM
 
-|                      |                                                                                                |
-| -------------------- | ---------------------------------------------------------------------------------------------- |
-| Artquitetura:        | 64 bits                                                                                        |
-| Processamento:       | 1,4GHz                                                                                         |
-| RAM:                 | 512MB \*(800MB durante a instalação)                                                           |
-| Armazenamento:       | 32GB                                                                                           |
-| Sistema Operacional: | Será instalado de C:\Users\...\ISO\Windows_Server_2016_Datacenter_EVAL_en-us_14393_refresh.ISO |
-|                      |                                                                                                |
+## Requisitos
 
-### Criando uma VM (Máquina Virtual)
+> Sistema Operacional: Windows Server 2016 (Windows_Server_2016_Datacenter_EVAL_en-us_14393_refresh.ISO)
+
+|   Máquina Virtual |                 Mínimo                 | Recomendado |
+| ----------------: | :------------------------------------: | :---------: |
+|    Processadores: |                   2                    |      4      |
+|       Arquitetura |                64 bits                 |   64 bits   |
+|      Memória RAM: | 512 MB \*(800 MB durante a instalação) |    4 GB     |
+|    Armazenamento: |                 32 GB                  |    32 GB    |
+| Memória de vídeo: |                 64 MB                  |    64 MB    |
+
+## Criando uma VM (Máquina Virtual)
 
 1. Em **Gerenciador do Hyper-v** no menu da esquerda selecione item com o nome do _computador físico_
 1. No menu de **Ações** à direita, clique na opção 'Novo > Máquina Virtual'
@@ -90,77 +93,84 @@
 
    1. A _Nova Máquina Virtual_ vai aparecer no painel central do **Gerenciador do Hyper-V** descrito como 'Máquinas Virtuais'
 
-### Instalando o Sistema Operacional .ISO
+## Instalando o Sistema Operacional .ISO
 
-1. Clique 2x na VM criada
-1. Na janela de Conexão de Máquina Virtual clique no botão 'Iniciar'
-   - Certifique-se que existe memória didponível no computador físico.
-1. Selecione as opções de preferencia de linguagem Tempo e moeda corrente:
+1.  Clique 2x na VM criada
+1.  Na janela de Conexão de Máquina Virtual clique no botão 'Iniciar'
+    - Certifique-se que existe memória didponível no computador físico.
+1.  Selecione as opções de preferencia de linguagem Tempo e moeda corrente:
 
-   - _Language to install:_ [English (United States)]
-   - _Time and Currency format:_ [English (United States)]
-   - _Keyboard or input method:_ [Portuguese (Brazil ABNT2)]  
-     Clique no botão '_Install now_'.
+    - _Language to install:_ [English (United States)]
+    - _Time and Currency format:_ [English (United States)]
+    - _Keyboard or input method:_ [Portuguese (Brazil ABNT2)]  
+      Clique no botão '_Install now_'.
 
-1. Em **Windows Setup** selecione a versão do sistema operacional que deseja instalar:
+1.  Em **Windows Setup** selecione a versão do sistema operacional que deseja instalar:
 
-   - **[ ] Windows Server 2016 Standars evaluation**
-     ##### **Descrição:** Essa opção (recomendada) reduz o gerenciamento e a manutenção instalando apenas o que é necessário para executar a maioria das funções e aplicativos do servidor. Ele não inclui uma GUI, mas você pode gerenciar totalmente o servidor local ou remotamente com o Windows PowerShell ou outras ferramentas. Para obter mais detalhes, consulte "Opções de instalação do Windows Server".
-   - **[ ] Windows Server 2016 Standard evaluation (Desktop experience)**
-     ##### **Descrição:** Essa opção é útil quando uma GUI é necessária, por exemplo, para fornecer compatibilidade com versões anteriores de um aplicativo que não pode ser executado em uma instalação Server Core. Todas as funções e recursos do servidor são suportados. Para obter mais detalhes, consulte "Opções de instalação do Windows Server".
-   - **[ ] Windows Server 2016 Datacenter evaluation**
-     ##### **Descrição:** Esta opção (recomendada) reduz o gerenciamento e a manutenção instalando apenas o que é necessário para executar a maioria das funções e aplicativos do servidor. Ele não inclui uma GUI, mas você pode gerenciar totalmente o servidor local ou remotamente com o Windows PowerShell ou outras ferramentas. Para obter mais detalhes, consulte "Opções de instalação do Windows Server".
-   - **[x] Windows Server 2016 Datacenter evaluation (Desktop experience)**
-     ##### **Descrição:** Esta opção é útil quando uma GUI é necessária, por exemplo, para fornecer compatibilidade com versões anteriores para um aplicativo que não pode ser executado em uma instalação Server Core. Todas as funções e recursos do servidor são suportados. Para obter mais detalhes, consulte "Opções de instalação do Windows Server".
-     Clique no botão '_Next_'.
+    - [ ] **Windows Server 2016 Standars evaluation**
+      ###### **Descrição:** Essa opção (recomendada) reduz o gerenciamento e a manutenção instalando apenas o que é necessário para executar a maioria das funções e aplicativos do servidor. Ele não inclui uma GUI, mas você pode gerenciar totalmente o servidor local ou remotamente com o Windows PowerShell ou outras ferramentas. Para obter mais detalhes, consulte "Opções de instalação do Windows Server".
+    - [ ] **Windows Server 2016 Standard evaluation (Desktop experience)**
+      ###### **Descrição:** Essa opção é útil quando uma GUI é necessária, por exemplo, para fornecer compatibilidade com versões anteriores de um aplicativo que não pode ser executado em uma instalação Server Core. Todas as funções e recursos do servidor são suportados. Para obter mais detalhes, consulte "Opções de instalação do Windows Server".
+    - [ ] **Windows Server 2016 Datacenter evaluation**
+      ###### **Descrição:** Esta opção (recomendada) reduz o gerenciamento e a manutenção instalando apenas o que é necessário para executar a maioria das funções e aplicativos do servidor. Ele não inclui uma GUI, mas você pode gerenciar totalmente o servidor local ou remotamente com o Windows PowerShell ou outras ferramentas. Para obter mais detalhes, consulte "Opções de instalação do Windows Server".
+    - [x] **Windows Server 2016 Datacenter evaluation (Desktop experience)**
+      ###### **Descrição:** Esta opção é útil quando uma GUI é necessária, por exemplo, para fornecer compatibilidade com versões anteriores para um aplicativo que não pode ser executado em uma instalação Server Core. Todas as funções e recursos do servidor são suportados. Para obter mais detalhes, consulte "Opções de instalação do Windows Server".
 
-1. Leia os termos de licença e se estiver de acordo marque a opção:
-   [x] _I accept the licence terms_  
-   Clique no botão '_Next_'
+    Clique no botão '_Next_'.
 
-   ##### \*(pode ser necessário ler o termo de licença até o fim para liberar essa opção )
+1.  Leia os termos de licença e se estiver de acordo marque a opção:
 
-1. Selecione o tipo de instyalação desejada?
+    - [x] _I accept the licence terms_  
+           Clique no botão '_Next_'
 
-   - [ ] **Upgrade**: Install Windows and keep files, settings, and applications
-     ##### Os arquivos, configurações e aplicativos são movidos para o Windows com esta opção. Esta opção só está disponível quando uma versão suportada do Windows já está em execução no computador.
-   - [x] **Custom**: Install Windows only (advanced)
-     ##### Os arquivos, configurações e aplicativos não são movidos para o Windows com esta opção. Se você quiser fazer alterações em partições e unidades, inicie o computador usando o disco de instalação. É recomendado fazer backup de seus arquivos antes de continuar.
+    ##### \*(pode ser necessário ler o termo de licença até o fim para liberar essa opção )
 
-1. Selecione em qual partição deseja instalar o windows
+1.  Selecione o tipo de instyalação desejada?
 
-   |     | Name                      | Total size | Free space | Type |
-   | --- | ------------------------- | ---------- | ---------- | ---- |
-   |     | Drive 0 Unallocated Space | 32GB       | 32GB       |      |
-   |     |                           |            |            |      |
+    - [ ] **Upgrade**: Install Windows and keep files, settings, and applications
+      ##### Os arquivos, configurações e aplicativos são movidos para o Windows com esta opção. Esta opção só está disponível quando uma versão suportada do Windows já está em execução no computador.
+    - [x] **Custom**: Install Windows only (advanced)
+      ##### Os arquivos, configurações e aplicativos não são movidos para o Windows com esta opção. Se você quiser fazer alterações em partições e unidades, inicie o computador usando o disco de instalação. É recomendado fazer backup de seus arquivos antes de continuar.
 
-   - Clique no botão '_Next_'
+1.  Selecione em qual partição deseja instalar o windows
 
-1. Aguarde as etapas seguintes:
+    |     | Name                      | Total size | Free space | Type |
+    | --- | ------------------------- | ---------- | ---------- | ---- |
+    |     | Drive 0 Unallocated Space | 32GB       | 32GB       |      |
 
-   Installing Windows  
-   Status:
+    - Clique no botão '_Next_'
 
-   - Copying Windows files
-   - **Getting files ready for installation** (5%)
-   - Installing features
-   - Installing updates
-   - Finishing up
+1.  Aguarde as etapas seguintes:
 
-   ##### \*O sistema irá reiniciar algumas vezes
+    Installing Windows  
+    Status:
 
-1. Digite uma senha para a conta interna de administrador que você usará para acessar este computador.
+    - Copying Windows files
+    - **Getting files ready for installation** (5%)
+    - Installing features
+    - Installing updates
+    - Finishing up
 
-   - crie uma **senha segura**
-   - repita a **senha segura**
+    ###### \*O sistema irá reiniciar algumas vezes
 
-   Clique no botão '_Finish_'
+1.  Digite uma senha para a conta interna de administrador que você usará para acessar este computador.
 
-1. Pressione **Ctrl+Alt+Delete** para acessar o sistema
-1. Insira a **senha segura** criada anteriormente
+    - crie uma **senha segura**
+    - repita a **senha segura**
 
-### Configurando o Sistema
+    Clique no botão '_Finish_'
+
+1.  Pressione **Ctrl+Alt+Delete** para acessar o sistema
+1.  Insira a **senha segura** criada anteriormente
+
+## Configurando o Sistema
 
 1. Renomeie o Computador
 1. Ajuste a Data e a Hora do Sistema
 1. Defina o Endereço IPv4
+
+# [![Home][homeimage]][homelink] [![Top][topimage]](#)
+
+[topimage]: https://img.shields.io/badge/-Voltar_ao_topo-grey
+[homeimage]: https://img.shields.io/badge/-Home-blue
+[homelink]: ./../../../README.md/#
