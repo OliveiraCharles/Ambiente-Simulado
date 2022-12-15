@@ -38,11 +38,11 @@ Construir um ambiente virtualizado para simulação de testes de invasão e moni
 1. Todas as máquinas devem ter um endereço de IP Fixo.
 1. As máquinas devem estar em uma rede sem acesso a internet e isolada das demais redes.
 
-# Etapas do Projeto
+## Etapas do Projeto
 
 Neste repositório está apresentada toda documentação técnica do projeto.
 
-## F1E1 Workshops
+### F1E1 Workshops
 
 - [**ELK Stack**](./F1_Ambiente-Virtualizado/F1E1_Workshops/ELK_Stack)
 - [**Kali Linux**](./F1_Ambiente-Virtualizado/F1E1_Workshops/KaliLinux)
@@ -50,7 +50,7 @@ Neste repositório está apresentada toda documentação técnica do projeto.
 - [**pfSense**\*](./F1_Ambiente-Virtualizado/F1E1_Workshops/pfSense/)
 - [**Windows Server**](./F1_Ambiente-Virtualizado/F1E1_Workshops/WindowsServer/Workshop.md)
 
-## F1E2 Criando o Ambiente Virtualizado
+### F1E2 Criando o Ambiente Virtualizado
   - [Habilitando e configurando o **Hyper-V** (Gerenciador do ambiente virtual)](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Hyper-V/hyper-v.md/#)
   - [Instalando o **Windows 10** (Blue Team Machine)](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Máquina%20Blue%20Team/Windows_10.md)
     - [Configurando Máquina Hyper-V Servidor]  
@@ -67,16 +67,16 @@ Neste repositório está apresentada toda documentação técnica do projeto.
     - [ADDS]
   - [Instalando o **ELK Stack** (SIEM)](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/SIEM/ELK.md)
 
-## F1E3 Simulando Ambiente Virtualizado
+### F1E3 Simulando Ambiente Virtualizado
   - RASCUNHO
   
-## F2E1 Entendendo "Galileo Gen2"
+### F2E1 Entendendo "Galileo Gen2"
   - RASCUNHO
 
-## F2E2 Integrando "Galileo Gen2"
+### F2E2 Integrando "Galileo Gen2"
   - [Configurando **Intel® Galileo Gen 2 Board**](./F2_Ambiente-IoT/F2E2_Integrando-GalileoGen2/galileoGen2.md)
 
-## F2E3 Simulando Ambiente Galileo Gen2"
+### F2E3 Simulando Ambiente Galileo Gen2"
   - RASCUNHO
 
 ##### \*Documentação em desenvolvimento, consulte [status do projeto](./docStatus.md) ou a branch **develop** pode ser que já esteja disponível por lá ;).
