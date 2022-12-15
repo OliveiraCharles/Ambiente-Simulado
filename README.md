@@ -9,7 +9,7 @@ Ambiente virtualizado para simulação de testes de invasão e monitoramento de 
   - [Fase 01](#fase-01)
   - [Ambiente de Simulação](#ambiente-de-simulação)
   - [Regras de Conectividade do Ambiente](#regras-de-conectividade-do-ambiente)
-- [Workshops](#workshops)
+- [Workshops](#f1e1-Workshops)
 - [Tutoriais](#tutoriais)
 
 # Proposta
@@ -38,6 +38,8 @@ Construir um ambiente virtualizado para simulação de testes de invasão e moni
 1. O computador Red Team pode acessar apenas o Servidor Web e Servidor de DNS.
 1. Todas as máquinas devem ter um endereço de IP Fixo.
 1. As máquinas devem estar em uma rede sem acesso a internet e isolada das demais redes.
+
+# Etapas do Projeto
 
 ## F1E1 Workshops
 
