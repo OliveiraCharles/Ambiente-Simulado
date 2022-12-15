@@ -47,8 +47,8 @@ Neste repositório está apresentada toda documentação técnica do projeto.
 - [**ELK Stack**](./F1_Ambiente-Virtualizado/F1E1_Workshops/ELK_Stack/Apresentacao_ELK_Stack.pdf)
 - [**Kali Linux**](./F1_Ambiente-Virtualizado/F1E1_Workshops/KaliLinux/Workshop_Kali.pdf)
 - [**Linux**](./F1_Ambiente-Virtualizado/F1E1_Workshops/Linux/Workshop_Linux_rev1.pdf)
-- [**pfSense**\*](./F1_Ambiente-Virtualizado/F1E1_Workshops/pfSense/)
-- [**Windows Server**](./F1_Ambiente-Virtualizado/F1E1_Workshops/WindowsServer/Windows Server_Rev02.pdf)
+- [**pfSense**\*](./F1_Ambiente-Virtualizado/F1E1_Workshops/pfSense/Workshop_PfSense.pdf)
+- [**Windows Server**](./F1_Ambiente-Virtualizado/F1E1_Workshops/WindowsServer/Windows%20Server_Rev02.pdf)
 
 ### F1E2 Criando o Ambiente Virtualizado
   - [Habilitando e configurando o **Hyper-V** (Gerenciador do ambiente virtual)](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Hyper-V/hyper-v.md/#)
