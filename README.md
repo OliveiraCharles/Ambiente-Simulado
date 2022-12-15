@@ -9,8 +9,7 @@ Ambiente virtualizado para simulação de testes de invasão e monitoramento de 
   - [Fase 01](#fase-01)
   - [Ambiente de Simulação](#ambiente-de-simulação)
   - [Regras de Conectividade do Ambiente](#regras-de-conectividade-do-ambiente)
-- [Workshops](#f1e1-Workshops)
-- [Tutoriais](#tutoriais)
+- [Etapas do Projeto](#etapas-do-projeto)
 
 # Proposta
 
@@ -41,6 +40,8 @@ Construir um ambiente virtualizado para simulação de testes de invasão e moni
 
 # Etapas do Projeto
 
+Neste repositório está apresentada toda documentação técnica do projeto.
+
 ## F1E1 Workshops
 
 - [**ELK Stack**](./F1_Ambiente-Virtualizado/F1E1_Workshops/ELK_Stack)
@@ -49,17 +50,18 @@ Construir um ambiente virtualizado para simulação de testes de invasão e moni
 - [**pfSense**\*](./F1_Ambiente-Virtualizado/F1E1_Workshops/pfSense/)
 - [**Windows Server**](./F1_Ambiente-Virtualizado/F1E1_Workshops/WindowsServer/Workshop.md)
 
-Neste repositório está apresentada toda documentação técnica do projeto
-
 ## F1E2 Criando o Ambiente Virtualizado
   - [Habilitando e configurando o **Hyper-V** (Gerenciador do ambiente virtual)](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Hyper-V/hyper-v.md/#)
   - [Instalando o **Windows 10** (Blue Team Machine)](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Máquina%20Blue%20Team/Windows_10.md)
+    - [Configurando Máquina Hyper-V Servidor]  
   - [Instalando o **Kali Linux 2022** (Red Team Machine)](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Máquina%20Red%20Team/Kali_Linux.md)
+    - [Configurando Máquina Hyper-V Servidor] 
   - [Instalando o **pfSense** (Firewall)\*](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Firewall/pfSense.md)
   - [Instalando o **Servidor DNS**\*](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Servidor%20DNS/dnsServer.md)
   - [Instalando o **Windows 7** (User Machine)\*](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Máquinas%20Clientes/Windows_7.md)
   - [Instalando o **Metasploitable 2** (Web Server + DB)\*](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Servidor%20Web/metasploitable2.md)
   - [Instalando o **Windows Server 2016** (Servidor de autenticação LDAP, Arquivos e E-mail)](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Active%20Directory/01%20Instalação%20Windows%20Server%202016.md)
+    - [ADDS]   
   - [Instalando o **ELK Stack** (SIEM)](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/SIEM/ELK.md)
 
 ## F1E3 Simulando Ambiente Virtualizado
