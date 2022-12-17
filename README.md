@@ -53,9 +53,9 @@ Neste repositório está apresentada toda documentação técnica do projeto.
 ### F1E2 Criando o Ambiente Virtualizado
   - [Habilitando e configurando o **Hyper-V** (Gerenciador do ambiente virtual)](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Hyper-V/hyper-v.md/#)
   - [Instalando o **Windows 10** (Blue Team Machine)](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Máquina%20Blue%20Team/Windows_10.md)
-    - [Configurando Máquina Hyper-V Servidor]  
+    - [Configurando Máquina Hyper-V Servidor](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Máquina%20Blue%20Team/Configuração_Servidor.md)
   - [Instalando o **Kali Linux 2022** (Red Team Machine)](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Máquina%20Red%20Team/Kali_Linux.md)
-    - [Configurando Máquina Hyper-V Servidor] 
+    - [Configurando Máquina Hyper-V Servidor](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Máquina%20Red%20Team/Configuração_Servidor.md)
   - [Instalando o **pfSense** (Firewall)\*](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Firewall/pfSense.md)
   - [Instalando o **Servidor DNS**\*](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Servidor%20DNS/dnsServer.md)
   - [Instalando o **Windows 7** (User Machine)\*](./F1_Ambiente-Virtualizado/F1E2_Criando-Ambiente-Virtualizado/Máquinas%20Clientes/Windows_7.md)
