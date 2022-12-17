@@ -1,3 +1,6 @@
+# Configuração - Máquinas (Hyper V - Servidor)
+
+
 1) certificar-se de estar na mesma LAN que o servidor ter um ip fixo pertencente a rede /24
 2) abrir o VSCode como administrador
 3) abrir no VSCode o aquivo C:\Windows\System32\drivers\etc\hosts
